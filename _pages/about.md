@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yichen Li"
+title: "Yichen Li (李亦晨)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,6 @@ redirect_from:
 
 
 
-Hi, my name is Yichen Li (李亦晨). The homepage is coming soon!
+The homepage is coming soon!
 
 
