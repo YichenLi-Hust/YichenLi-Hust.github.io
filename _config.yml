@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yichen Li / Homepage"
 title_separator          : "-"
 name                     : &name "Yichen Li"
-description              : &discription "Ph.D. Candidate (From 2023.09 To 2028.06)"
+description              : &discription "Ph.D. Candidate \\ (From 2023.09 To 2028.06)"
 url                      : https://yichenli-hust.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YichenLi-Hust/YichenLi-Hust.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : # he/his"  
   bio              : "Ph.D. Candidate (From 2023.09 To 2028.06)"
   location         : "Wuhan, China"
-  employer         : "Huazhong University of Science and Technology"
+  employer         : "Huazhong University of \\ Science and Technology"
   uri              : # URL
   email            : "ycli0204@hust.edu.cn" 
 
