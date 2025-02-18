@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Yichen Li - Homepage"
-excerpt: "Yichen Li - Homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
