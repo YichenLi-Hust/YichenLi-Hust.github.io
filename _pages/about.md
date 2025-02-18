@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Yichen Li"
 author_profile: true
 redirect_from: 
   - /about/
