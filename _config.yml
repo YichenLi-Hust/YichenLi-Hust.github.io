@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yichen Li / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yichen Li"
 description              : &discription "Ph.D. Candidate  (From 2023.09 To 2028.06)"
