@@ -42,6 +42,9 @@ I am passionate about **distributed learning** among mobile devices. My current 
 ##
 ### Journal Publications 
 1. **Yichen Li**, Wenchao Xu, Yining Qi, Haozhao Wang, Ruixuan Li, Song Guo. SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024
+2. Yuying Wang, **Yichen Li**, Haozhao Wang, Lei Zhao, Xiaofang Zhang. Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction. Journal of Software: Evolution and Process (JSEP), 2024 (Corresponding Author)
+3. Jianian Zhu, **Yichen Li**, Haozhao Wang, Yining Qi, Ruixuan Li. Hypernetwork-Driven Centralized Contrastive Learning for Federated Graph Classification. World Wide Web Journal (WWWJ), 2024
+4. **Yichen Li**, An Liu, Lei Zhao, Xiaofang Zhang. Hybrid model with multi-level code representation for multi-label code smell detection. International Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2022
 
 ## 🙂 Preprint
 
