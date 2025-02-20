@@ -55,8 +55,6 @@ I am passionate about **distributed learning** among mobile devices. My current 
 6. **Yichen Li**, Xiuying Wang, Wenchao Xu, Haozhao Wang, Yining Qi, Jiahua Dong, Ruixuan Li. Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning. Submitted to The Thirty-Sixth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25)
 7. **Yichen Li**, Qiyu Qin, Gaoyang Zhu, Wenchao Xu, Haozhao Wang, Yuhua Li, Rui Zhang, Ruixuan Li. A Systematic Survey on Federated Sequential Recommendation. Submitted to The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
 8. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient and Privacy-Enhanced Federated Recommendation for Joint Venture Ecosystem. Submitted to The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'25)
-9. Tianzhe Xiao, **Yichen Li**, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. Enhancing Privacy in Multimodal Federated Learning with Information Theory. Submitted to International Conference on Computer Vision (ICCV'25) 
-10. Tianzhe Xiao, **Yichen Li**, Yining Qi, Haozhao Wang, Ruixuan Li. FedGIG: Graph Inversion from Gradient in Federated Learning. Submitted to IEEE International Conference on Multimedia & Expo (ICME'25) 2025
 
 ## 🏆 Honor & Award
 - 2025.01 Best Paper Award, [IDC Lab](https://idc.hust.edu.cn/), HUST
