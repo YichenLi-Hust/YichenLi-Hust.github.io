@@ -31,7 +31,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2024.03: 🎉🎉 One paper was accepted by CVPR'24.
 - 2024.01: 🎉🎉 One paper was accepted by ICLR'24 (Co-author).
 - 2023.09: 🎉🎉 Join the HUST as a Ph.D. Student!
-- 2023.03: 🎉🎉 One paper was accepted by CVPR'23 (Student First Author).
+- 2023.03: 🎉🎉 One paper was accepted by CVPR'23.
 
 ## 📝 Publications
 
