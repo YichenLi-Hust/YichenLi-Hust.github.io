@@ -33,7 +33,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 ## 📝 Publications
 <dl>
 <dt><img align="left" width="250"
-hspace="0" wspace="50" src="../images/WWW.png">
+hspace="0" wspace="0" src="../images/WWW.png">
 </dt>
 <dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
 Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
@@ -41,6 +41,7 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 <dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
 <dd> The 34th ACM Web Conference (WWW'25), 2025, CCF-A</dd>
 </dl>
+<br>
 <br>
 <br>
 
@@ -56,6 +57,8 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 <dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
 <dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
 </dl>
+<br>
+<br>
 <br>
 
 ### Conference Publications
