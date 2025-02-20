@@ -20,8 +20,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "中文版"
-    url: /zh_cv/
+  # - title: "中文版"
+  #   url: /zh_cv/
     
   # - title: "Guide"
   #   url: /markdown/
