@@ -20,9 +20,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 
 - (Federated) Software Engineering (**_e.g.,_** Defect Prediction, Code Smell Detection)
 
-- Edge-Cloud Collaboration (**_e.g.,_** Multi-Agent, RAG)
-
-
+- Edge-Cloud Collaboration (**_e.g.,_** Multi-Agent Sys, RAG)
 
 ## 🔥 News
 
