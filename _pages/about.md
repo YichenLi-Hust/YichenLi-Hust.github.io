@@ -39,7 +39,7 @@ hspace="0" wspace="20" src="../images/WWW.png">
 Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
-<dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
+<dd> The 34th ACM Web Conference (WWW'25), 2025, CCF-A</dd>
 </dl>
 <br>
 <br>
