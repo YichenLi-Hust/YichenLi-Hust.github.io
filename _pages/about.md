@@ -34,9 +34,19 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2023.03: 🎉🎉 One paper was accepted by CVPR'23.
 
 ## 📝 Publications
+Coming Soon！
 
 ## 🏆 Honor & Reward
 
 ## 💬 Academic Service
+### Conference Committee Member
+- Reviewer for ICML'25, ICLR'25, NeurIPS'24/25, AISTATS'25
+- Reviewer for CVPR'25, ICCV'25, ECCV'24
+- Reviewer for IJCAI'25, WWW'25, KDD'25, ICME'24/25, IJCNN'25
+  
+### Journal Reviewer
+- Reviewer for IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Reviewer for ACM Computing Surveys (CSUR)
+- Reviewer for ACM Transactions on Information Systems (TOIS)
 
-Coming Soon！
