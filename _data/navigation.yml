@@ -5,14 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Representative Works"
-    url: /repre_work/    
+  # - title: "Representative Works"
+  #   url: /repre_work/    
 
-  - title: "Honor & Rewards"
-    url: /teaching/    
+  # - title: "Honor & Rewards"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
