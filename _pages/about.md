@@ -31,7 +31,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 ## 📝 Publications
 
 ### Conference Publications
-1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion. The 34th ACM Web Conference (WWW'25), Australia, 2025
+1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion. The 34th ACM Web Conference (WWW'25), Australia, 2025 $\textcolor{red}{(CCF-A)}$
 2. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching. The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024
 3. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. Towards Efficient Replay in Federated Incremental Learning. The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), USA, 2024
 4. Haozhao Wang, Haoran Xu, **Yichen Li**, Ruixuan Li, Tianwei Zhang. FedCDA: Federated Learning with Cross-rounds Divergence-aware Aggregation. Twelfth International Conference on Learning Representations (ICLR'24), Austria, 2024 (Co-author)
