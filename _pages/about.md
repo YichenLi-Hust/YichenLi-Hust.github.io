@@ -39,7 +39,9 @@ I am passionate about **distributed learning** among mobile devices. My current 
 6. Juan Zhao, Xiaoquan Yi, Ruixuan Li, Yuhua Li, Haozhao Wang, **Yichen Li**, Zhiying Deng, Zijun Xu. FedTA: Unsupervised Federated Prototype Learning with Temperature Adaptation. IEEE International Conference on High Performance Computing and Communications (HPCC'24), China, 2024
 7. Hao Zhu, **Yichen Li**, Jie Li, Xiaofang Zhang. An Efficient Design Smell Detection Approach with Inter-class Relation. The 35th International Conference on Software Engineering and Knowledge Engineering (SEKE'23), USA, 2023
 8. **Yichen Li**, Xiaofang Zhang. Multi-Label Code Smell Detection with Hybrid Model based on Deep Learning. The 34th International Conference on Software Engineering and Knowledge Engineering (SEKE'22), USA, 2022
+   
 ***
+
 ### Journal Publications 
 1. **Yichen Li**, Wenchao Xu, Yining Qi, Haozhao Wang, Ruixuan Li, Song Guo. SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024
 2. Yuying Wang, **Yichen Li**, Haozhao Wang, Lei Zhao, Xiaofang Zhang. Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction. Journal of Software: Evolution and Process (JSEP), 2024 (Corresponding Author)
