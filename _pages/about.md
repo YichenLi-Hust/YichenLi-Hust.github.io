@@ -47,6 +47,16 @@ I am passionate about **distributed learning** among mobile devices. My current 
 4. **Yichen Li**, An Liu, Lei Zhao, Xiaofang Zhang. Hybrid model with multi-level code representation for multi-label code smell detection. International Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2022
 
 ## 🙂 Preprint
+1. **Yichen Li**, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li. Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey. Submitted to IEEE Communications Surveys & Tutoriols (COMST)
+2. **Yichen Li**, Yuying Wang, Tianzhe Xiao, Haozhao Wang, Yining Qi, Ruixuan Li. Rehearsal-Free Continual Federated Learning with Synergistic Regularization. Submitted to The Thirteenth International Conference on Learning Representations (ICML'25)
+3. **Yichen Li**, Yuying Wang, Jiahua Dong, Haozhao Wang, Yining Qi, Rui Zhang, Ruixuan Li. Resource-Constrained Federated Continual Learning: What Does Matter?. Submitted to Science China: Information Science (SCIS)
+4. **Yichen Li**, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li. Re-Fed+: A Better Replay Strategy for Federated Incremental Learning. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+5. **Yichen Li**, Wenchao Xu, Yuying Wang, Yining Qi, Haozhao Wang, Bo Liu, Jingcai Guo, Ruixuan Li. Personalized Federated Incremental Learning with Chunked Hypernetworks. Submitted to IEEE Transactions on Mobile Computing (TMC)
+6. **Yichen Li**, Xiuying Wang, Wenchao Xu, Haozhao Wang, Yining Qi, Jiahua Dong, Ruixuan Li. Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning. Submitted to The Thirty-Sixth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25)
+7. **Yichen Li**, Qiyu Qin, Gaoyang Zhu, Wenchao Xu, Haozhao Wang, Yuhua Li, Rui Zhang, Ruixuan Li. A Systematic Survey on Federated Sequential Recommendation. Submitted to The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
+8. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient and Privacy-Enhanced Federated Recommendation for Joint Venture Ecosystem. Submitted to The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'25)
+9. Tianzhe Xiao, **Yichen Li**, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. Enhancing Privacy in Multimodal Federated Learning with Information Theory. Submitted to International Conference on Computer Vision (ICCV'25) 
+10. Tianzhe Xiao, **Yichen Li**, Yining Qi, Haozhao Wang, Ruixuan Li. FedGIG: Graph Inversion from Gradient in Federated Learning. Submitted to IEEE International Conference on Multimedia & Expo (ICME'25) 2025
 
 ## 🏆 Honor & Award
 - 2025.01 Best Paper Award, [IDC Lab](https://idc.hust.edu.cn/), HUST
