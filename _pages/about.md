@@ -43,8 +43,6 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 <dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
 </dl>
 
-<hr>
-
 ***
 
 ### Conference Publications
