@@ -31,9 +31,14 @@ I am passionate about **distributed learning** among mobile devices. My current 
 ## 📝 Publications
 
 ### Conference Publications
-1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion. The 34th ACM Web Conference (WWW'25), Sydney, Australia, Apr 28th - May 2nd, 2025
-2. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching. The Eighteenth European Conference on Computer Vision (ECCV 2024), Milano, Italy, Sep 29-Oct 4, 2024
-3. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. Towards Efficient Replay in Federated Incremental Learning. The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024), Seattle, USA, June 17-21, 2024
+1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion. The 34th ACM Web Conference (WWW'25), Australia, 2025
+2. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching. The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024
+3. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. Towards Efficient Replay in Federated Incremental Learning. The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), USA, 2024
+4. Haozhao Wang, Haoran Xu, **Yichen Li**, Ruixuan Li, Tianwei Zhang. FedCDA: Federated Learning with Cross-rounds Divergence-aware Aggregation. Twelfth International Conference on Learning Representations (ICLR'24), Austria, 2024 (Co-author)
+5. Haozhao Wang, **Yichen Li**, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng. DaFKD: Domain-aware Federated Knowledge Distillation. The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), Canada, 2023
+6. Juan Zhao, Xiaoquan Yi, Ruixuan Li, Yuhua Li, Haozhao Wang, **Yichen Li**, Zhiying Deng, Zijun Xu. FedTA: Unsupervised Federated Prototype Learning with Temperature Adaptation. IEEE International Conference on High Performance Computing and Communications (HPCC'24), China, 2024
+7. Hao Zhu, **Yichen Li**, Jie Li, Xiaofang Zhang. An Efficient Design Smell Detection Approach with Inter-class Relation. The 35th International Conference on Software Engineering and Knowledge Engineering (SEKE'23), USA, 2023
+8. **Yichen Li**, Xiaofang Zhang. Multi-Label Code Smell Detection with Hybrid Model based on Deep Learning. The 34th International Conference on Software Engineering and Knowledge Engineering (SEKE'22), USA, 2022
 ##
 ### Journal Publications 
 1. **Yichen Li**, Wenchao Xu, Yining Qi, Haozhao Wang, Ruixuan Li, Song Guo. SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024
