@@ -49,8 +49,8 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 ***
 
 <dl>
-<dt><img align="left" width="300"
-hspace="0" wspace="50" src="../images/WWW.png">
+<dt><img align="left" width="350"
+hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
 Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
@@ -61,6 +61,9 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 <br>
 <br>
 <br>
+<br>
+
+***
 
 ### Conference Publications
 1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. [Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion](https://openreview.net/pdf?id=bhWngwuo74). The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
