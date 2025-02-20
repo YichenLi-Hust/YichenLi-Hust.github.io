@@ -12,15 +12,15 @@ Hi, my name is Yichen Li (Chinese: 李亦晨, Japnaese: 李えきしん), a Ph.D
 ## 📖 Research
 I am passionate about **distributed learning** among mobile devices. My current research interests focus on five key areas:
 
-- **<ins><sup>$\dagger$</sup>Federated Continual Learning / Incremental Learning / Life-Long Learning</ins>** 
+- **<ins>⭐ Federated Continual / Incremental / Life-Long Learning</ins>** 
 
-- Federated Learning (**_e.g.,_** Knowledge Distillation / Differential Privacy / Model Aggregation...)
+- Federated Learning (**_e.g.,_** Knowledge Distillation, Model Aggregation...)
 
-- (Federated) Recommendation System (**_e.g.,_** Sequential Recommendation, Cold-Start Problem, Cross-Domain)
+- (Federated) Recommendation System (**_e.g.,_** Sequential Recommendation, Cold-Start Problem)
 
 - (Federated) Software Engineering (**_e.g.,_** Defect Prediction, Code Smell Detection)
 
-- Edge-Cloud Collaboration (**_e.g.,_** Agent System, RAG, LLM Foundation)
+- Edge-Cloud Collaboration (**_e.g.,_** Agent System, RAG)
 
 
 
