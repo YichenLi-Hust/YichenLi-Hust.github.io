@@ -32,8 +32,8 @@ I am passionate about **distributed learning** among mobile devices. My current 
 
 ## 📝 Publications
 <dl>
-<dt><img align="left" width="250"
-hspace="10" wspace="20" src="../images/WWW.png">
+<dt><img align="left" width="400"
+hspace="10" wspace="30" src="../images/WWW.png">
 </dt>
 <dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
 Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
