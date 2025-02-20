@@ -31,6 +31,17 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2023.03: 🎉🎉 One paper was accepted by CVPR'23.
 
 ## 📝 Publications
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/WWW.png">
+</dt>
+  <dd><a href="https://openreview.net/forum?id=5Jc7r5aqHJ"><strong>	
+Energy-based Backdoor Defense Against Federated Graph Learning
+</strong></a></dd>
+<dd><strong>Guancheng Wan&dagger;</strong>, Zitong Shi&dagger;, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<dd> <strong class="co-first"><i>Oral Presentation (1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+</dl>
+<hr>
 
 ### Conference Publications
 1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. [Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion](https://openreview.net/pdf?id=bhWngwuo74). The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
