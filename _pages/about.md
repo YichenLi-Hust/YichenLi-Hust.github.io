@@ -32,7 +32,6 @@ I am passionate about **distributed learning** among mobile devices. My current 
 
 ## 📝 Publications
 <dl>
-  
 <dt><img align="left" width="180"
 hspace="10" wspace="20" src="../images/WWW.png">
 </dt>
@@ -44,6 +43,17 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 </dl>
 
 ***
+
+<dl>
+<dt><img align="left" width="180"
+hspace="10" wspace="20" src="../images/WWW.png">
+</dt>
+<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
+Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+</strong></a></dd>
+<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
+<dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
+</dl>
 
 ### Conference Publications
 1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. [Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion](https://openreview.net/pdf?id=bhWngwuo74). The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
@@ -71,7 +81,7 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 5. **Yichen Li**, Wenchao Xu, Yuying Wang, Yining Qi, Haozhao Wang, Bo Liu, Jingcai Guo, Ruixuan Li. Personalized Federated Incremental Learning with Chunked Hypernetworks. Submitted to IEEE Transactions on Mobile Computing (TMC) **<font color=Red>(CCF-A)</font>**
 6. **Yichen Li**, Xiuying Wang, Wenchao Xu, Haozhao Wang, Yining Qi, Jiahua Dong, Ruixuan Li. Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning. Submitted to The Thirty-Sixth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25) **<font color=Red>(CCF-A)</font>**
 7. **Yichen Li**, Qiyu Qin, Gaoyang Zhu, Wenchao Xu, Haozhao Wang, Yuhua Li, Rui Zhang, Ruixuan Li. A Systematic Survey on Federated Sequential Recommendation. Submitted to The 34th International Joint Conference on Artificial Intelligence (IJCAI'25) **<font color=Red>(CCF-A)</font>**
-8. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient and Privacy-Enhanced Federated Recommendation for Joint Venture Ecosystem. Submitted to The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'25) **<font color=Red>(CCF-A)</font>**
+8. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient and **** Federated Recommendation for ***. Submitted to The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'25) **<font color=Red>(CCF-A)</font>**
 
 ## 🏆 Honor & Award
 - 2025.01 Best Paper Award (<ins>最佳论文奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
