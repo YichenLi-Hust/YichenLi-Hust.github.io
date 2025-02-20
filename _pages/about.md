@@ -16,13 +16,15 @@ I am passionate about **distributed learning** among mobile devices. My current 
 
 - Federated Learning (**_e.g.,_** Knowledge Distillation, Model Aggregation...)
 
-- (Federated) Recommendation System (**_e.g.,_** Sequential RecSys, Cold-Start)
+- (Federated) Recommendation System (**_e.g.,_** Sequential RecSys, Cold-Start Problem)
 
 - (Federated) Software Engineering (**_e.g.,_** Defect Prediction, Code Smell Detection)
 
 - Edge-Cloud Collaboration (**_e.g.,_** Multi-Agent Sys, RAG)
 
 ## 🔥 News
+- 2025.01: 🎉🎉 One paper was accepted by WWW'25.
+- 
 
 ## 📝 Publications
 
