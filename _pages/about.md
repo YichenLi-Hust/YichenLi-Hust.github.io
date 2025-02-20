@@ -45,7 +45,7 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 ***
 
 <dl>
-<dt><img align="left" width="180"
+<dt><img align="left" width="300"
 hspace="10" wspace="20" src="../images/WWW.png">
 </dt>
 <dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
