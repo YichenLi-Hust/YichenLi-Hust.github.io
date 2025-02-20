@@ -29,7 +29,12 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2023.03: 🎉🎉 One paper was accepted by CVPR'23.
 
 ## 📝 Publications
-Coming Soon！
+
+### Conference Publications
+##
+### Journal Publications 
+
+## 🙂 Preprint
 
 ## 🏆 Honor & Award
 - 2025.01 Best Paper Award, [IDC Lab](https://idc.hust.edu.cn/), HUST
