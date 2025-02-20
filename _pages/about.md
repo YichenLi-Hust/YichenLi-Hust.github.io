@@ -34,7 +34,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 
 ### Conference Publications
 1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion. The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
-2. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching. The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A, CCF-B)</font>**
+2. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching. The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A)</font>**
 3. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. Towards Efficient Replay in Federated Incremental Learning. The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), USA, 2024 **<font color=Red>(CCF-A)</font>**
 4. Haozhao Wang, Haoran Xu, **Yichen Li**, Ruixuan Li, Tianwei Zhang. FedCDA: Federated Learning with Cross-rounds Divergence-aware Aggregation. Twelfth International Conference on Learning Representations (ICLR'24), Austria, 2024 (Co-author) **<font color=Red>(CAAI-A)</font>**
 5. Haozhao Wang, **Yichen Li**, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng. DaFKD: Domain-aware Federated Knowledge Distillation. The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), Canada, 2023 **<font color=Red>(CCF-A)</font>**
@@ -61,15 +61,15 @@ I am passionate about **distributed learning** among mobile devices. My current 
 8. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient and Privacy-Enhanced Federated Recommendation for Joint Venture Ecosystem. Submitted to The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'25) **<font color=Red>(CCF-A)</font>**
 
 ## 🏆 Honor & Award
-- 2025.01 Best Paper Award, [IDC Lab](https://idc.hust.edu.cn/), HUST
+- 2025.01 Best Paper Award (<ins>最佳论文奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
 - 2025.01 Excellent Paper Award of the 3<sup>th</sup>Annual Academic Conference (<ins>第三届学术年会优秀论文奖</ins>), School of Computer Sci. & Tech., HUST
 - 2024.12 Guotai Junan Scholarship (<ins>国泰君安奖学金</ins>), 2 Ph.D. students in the School of Computer Sci. & Tech., HUST
 - 2024.10 Doctoral First-Class Academic Scholarship, (<ins>博士一等学业奖学金</ins>), HUST
 - 2024.10 Science and Technology Innovation Award，(<ins>科技创新奖</ins>), HUST
 - 2024.10 Merit Student (<ins>三好学生</ins>), HUST
-- 2024.04 Sangfor Award, (<ins>深信服奖学金</ins>), School of Computer Sci. & Tech., HUST
+- 2024.04 Sangfor Award (<ins>深信服奖学金</ins>), School of Computer Sci. & Tech., HUST
 - 2024.01 Best Paper Award of the 2<sup>nd</sup>Annual Academic Conference (<ins>第二届学术年会最佳论文奖</ins>), School of Computer Sci. & Tech., HUST
-- 2024.01 Best Newcomer Award, (<ins>最佳新人奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
+- 2024.01 Best Newcomer Award (<ins>最佳新人奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
 
 ## 💬 Academic Service
 ### Conference Committee Member
