@@ -21,7 +21,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2025.01: 🎉🎉 One paper was accepted by WWW'25.
 - 2025.01: 🎉🎉 I became a Ph.D. Candidate!
 - 2024.12: 🎉🎉 One paper was accepted by JSEP (Corresponding Author).
-- 2024.08: 🎉🎉 One paper was accepted by IEEE TPDS.
+- 2024.07: 🎉🎉 One paper was accepted by IEEE TPDS.
 - 2024.07: 🎉🎉 One paper was accepted by ECCV'24.
 - 2024.03: 🎉🎉 One paper was accepted by CVPR'24.
 - 2024.01: 🎉🎉 One paper was accepted by ICLR'24 (Co-author).
@@ -31,8 +31,11 @@ I am passionate about **distributed learning** among mobile devices. My current 
 ## 📝 Publications
 
 ### Conference Publications
+1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion. The 34th ACM Web Conference (WWW'25), Sydney, Australia, Apr 28th - May 2nd, 2025 <font color=Red>CCF-A</font>
+2. 
 ##
 ### Journal Publications 
+1. **Yichen Li**, Wenchao Xu, Yining Qi, Haozhao Wang, Ruixuan Li, Song Guo. SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024
 
 ## 🙂 Preprint
 
