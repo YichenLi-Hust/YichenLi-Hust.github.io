@@ -60,6 +60,53 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 <br>
 <br>
 <br>
+
+***
+
+<dl>
+<dt><img align="left" width="350"
+hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
+</dt>
+<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
+Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+</strong></a></dd>
+<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
+<dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
+</dl>
+<br>
+<br>
+<br>
+
+***
+
+<dl>
+<dt><img align="left" width="350"
+hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
+</dt>
+<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
+Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+</strong></a></dd>
+<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
+<dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
+</dl>
+<br>
+<br>
+<br>
+
+***
+
+<dl>
+<dt><img align="left" width="350"
+hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
+</dt>
+<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
+Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+</strong></a></dd>
+<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
+<dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
+</dl>
+<br>
+<br>
 <br>
 
 ***
