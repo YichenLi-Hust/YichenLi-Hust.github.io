@@ -17,7 +17,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - (Federated) Software Engineering (**_e.g.,_** Defect Prediction, Code Smell Detection)
 - Edge-Cloud Collaboration (**_e.g.,_** Multi-Agent Sys, RAG)
 
-**PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or [Wechat](https://github.com/YichenLi-Hust/YichenLi-Hust.github.io/blob/master/images/vx.png):)**
+**PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or [Wechat](https://github.com/YichenLi-Hust/YichenLi-Hust.github.io/vx):)**
 
 ## 🔥 News
 - 2025.01: 🎉🎉 One paper was accepted by WWW'25.
@@ -51,7 +51,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 4. **Yichen Li**, An Liu, Lei Zhao, Xiaofang Zhang. Hybrid model with multi-level code representation for multi-label code smell detection. International Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2022 **<font color=Green>(CCF-C)</font>**
 
 ## 🙂 Preprint
-1. **Yichen Li**, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li. Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey. Submitted to IEEE Communications Surveys & Tutoriols (COMST) **<font color=Red>(Top 1, IF=35)</font>**
+1. **Yichen Li**, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li. [Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey](https://arxiv.org/pdf/2412.13840). Submitted to IEEE Communications Surveys & Tutoriols (COMST) **<font color=Red>(Top 1, IF=35)</font>**
 2. **Yichen Li**, Yuying Wang, Tianzhe Xiao, Haozhao Wang, Yining Qi, Ruixuan Li. Rehearsal-Free Continual Federated Learning with Synergistic Regularization. Submitted to The Thirteenth International Conference on Learning Representations (ICML'25) **<font color=Red>(CCF-A)</font>**
 3. **Yichen Li**, Yuying Wang, Jiahua Dong, Haozhao Wang, Yining Qi, Rui Zhang, Ruixuan Li. Resource-Constrained Federated Continual Learning: What Does Matter?. Submitted to Science China: Information Science (SCIS) **<font color=Red>(CCF-A)</font>**
 4. **Yichen Li**, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li. Re-Fed+: A Better Replay Strategy for Federated Incremental Learning. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) **<font color=Red>(CCF-A)</font>**
