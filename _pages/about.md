@@ -63,7 +63,7 @@ Towards Efficient Replay in Federated Incremental Learning
 ***
 
 <dl>
-<dt><img align="left" width="320" height="150"
+<dt><img align="left" width="350" height="150"
 hspace="0" wspace="0" src="../images/ECCV2024.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://arxiv.org/pdf/2407.05005"><strong>	
