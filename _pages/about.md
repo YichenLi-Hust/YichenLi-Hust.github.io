@@ -49,29 +49,13 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 
 <dl>
 <dt><img align="left" width="350"
-hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
+hspace="0" wspace="0" src="../images/CVPR2024.png" style="margin-right: 20px;">
 </dt>
-<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
-Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+<dd><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Efficient_Replay_in_Federated_Incremental_Learning_CVPR_2024_paper.pdf"><strong>	
+Towards Efficient Replay in Federated Incremental Learning
 </strong></a></dd>
-<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
-<dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
-</dl>
-<br>
-<br>
-<!-- <br> -->
-
-***
-
-<dl>
-<dt><img align="left" width="350"
-hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
-</dt>
-<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
-Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
-</strong></a></dd>
-<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
-<dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
+<dd><strong>Yichen Li</strong>, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang</dd>
+<dd> The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), 2024, CCF-A</dd>
 </dl>
 <br>
 <br>
@@ -81,13 +65,13 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 
 <dl>
 <dt><img align="left" width="350"
-hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
+hspace="0" wspace="0" src="../images/ECCV2024.png" style="margin-right: 20px;">
 </dt>
-<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
-Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+<dd><a href="https://arxiv.org/pdf/2407.05005"><strong>	
+Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching
 </strong></a></dd>
-<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
-<dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
+<dd><strong>Yichen Li</strong>, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo</dd>
+<dd> The Eighteenth European Conference on Computer Vision (ECCV'24), 2024, CAAI-A</dd>
 </dl>
 <br>
 <br>
@@ -97,13 +81,29 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 
 <dl>
 <dt><img align="left" width="350"
-hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
+hspace="0" wspace="0" src="../images/TPDS.png" style="margin-right: 20px;">
 </dt>
-<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
-Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+<dd><a href="https://ieeexplore.ieee.org/abstract/document/10620614"><strong>	
+SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning
 </strong></a></dd>
-<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
-<dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
+<dd><strong>Yichen Li</strong>, Wenchao Xu, Yining Qi, Haozhao Wang, Ruixuan Li, Song Guo</dd>
+<dd> IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024, CCF-A</dd>
+</dl>
+<br>
+<br>
+<br>
+
+***
+
+<dl>
+<dt><img align="left" width="350"
+hspace="0" wspace="0" src="../images/CVPR2023.png" style="margin-right: 20px;">
+</dt>
+<dd><a href="http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf"><strong>	
+DaFKD: Domain-aware Federated Knowledge Distillation
+</strong></a></dd>
+<dd>Haozhao Wang&dagger;, <strong>Yichen Li&dagger;</strong>, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng</dd>
+<dd> The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023, CCF-A</font>**</dd>
 </dl>
 <br>
 <br>
