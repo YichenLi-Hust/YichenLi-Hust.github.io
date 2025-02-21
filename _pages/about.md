@@ -73,8 +73,8 @@ Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge M
 <dd> The Eighteenth European Conference on Computer Vision (ECCV'24), 2024, CAAI-A</dd>
 </dl>
 <br>
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 ***
 
@@ -95,7 +95,7 @@ SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning
 ***
 
 <dl>
-<dt><img align="left" width="350" height="150"
+<dt><img align="left" width="350" height="170"
 hspace="0" wspace="0" src="../images/CVPR2023.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf"><strong>	
@@ -104,7 +104,7 @@ DaFKD: Domain-aware Federated Knowledge Distillation
 <dd>Haozhao Wang&dagger;, <strong>Yichen Li&dagger;</strong>, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng</dd>
 <dd> The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023, CCF-A</font>**</dd>
 </dl>
-<!-- <br> -->
+<br>
 <!-- <br> -->
 <!-- <br> -->
 
