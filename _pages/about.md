@@ -104,7 +104,7 @@ DaFKD: Domain-aware Federated Knowledge Distillation
 <dd>Haozhao Wang&dagger;, <strong>Yichen Li&dagger;</strong>, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng</dd>
 <dd> The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023, CCF-A</font>**</dd>
 </dl>
-<br>
+<!-- <br> -->
 <!-- <br> -->
 <!-- <br> -->
 
