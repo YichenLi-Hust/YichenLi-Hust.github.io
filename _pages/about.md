@@ -32,7 +32,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 
 ## 📝 Publications
 <dl>
-<dt><img align="left" width="350" height="200"
+<dt><img align="left" width="350" height="185"
 hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
