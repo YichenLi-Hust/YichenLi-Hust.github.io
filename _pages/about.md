@@ -57,9 +57,9 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 <dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
 <dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
 </dl>
-<!-- <br>
 <br>
-<br> -->
+<br>
+<!-- <br> -->
 
 ***
 
@@ -89,8 +89,8 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 <dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
 <dd> The 34th ACM Web Conference (WWW'25), 2025</dd>
 </dl>
-<!-- <br>
-<br> -->
+<br>
+<br>
 <br>
 
 ***
