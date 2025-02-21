@@ -79,7 +79,7 @@ Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge M
 ***
 
 <dl>
-<dt><img align="left" width="350" height="200"
+<dt><img align="left" width="350" height="185"
 hspace="0" wspace="0" src="../images/TPDS.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://ieeexplore.ieee.org/abstract/document/10620614"><strong>	
@@ -95,7 +95,7 @@ SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning
 ***
 
 <dl>
-<dt><img align="left" width="350" height="170"
+<dt><img align="left" width="350" height="150"
 hspace="0" wspace="0" src="../images/CVPR2023.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf"><strong>	
