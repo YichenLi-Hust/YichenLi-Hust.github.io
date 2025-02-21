@@ -57,9 +57,8 @@ Towards Efficient Replay in Federated Incremental Learning
 <dd><strong>Yichen Li</strong>, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang</dd>
 <dd> The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), 2024, CCF-A</dd>
 </dl>
-<!-- <br>
-<br> -->
-<!-- <br> -->
+<br>
+
 
 ***
 
@@ -105,7 +104,7 @@ DaFKD: Domain-aware Federated Knowledge Distillation
 <dd>Haozhao Wang&dagger;, <strong>Yichen Li&dagger;</strong>, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng</dd>
 <dd> The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023, CCF-A</font>**</dd>
 </dl>
-<!-- <br> -->
+<br>
 <!-- <br> -->
 <!-- <br> -->
 
