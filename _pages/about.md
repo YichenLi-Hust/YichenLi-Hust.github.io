@@ -32,7 +32,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 
 ## 📝 Publications
 <dl>
-<dt><img align="left" width="350"
+<dt><img align="left" width="350" height="200"
 hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
@@ -48,7 +48,7 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 ***
 
 <dl>
-<dt><img align="left" width="350"
+<dt><img align="left" width="350" height="150"
 hspace="0" wspace="0" src="../images/CVPR2024.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Efficient_Replay_in_Federated_Incremental_Learning_CVPR_2024_paper.pdf"><strong>	
@@ -57,14 +57,14 @@ Towards Efficient Replay in Federated Incremental Learning
 <dd><strong>Yichen Li</strong>, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang</dd>
 <dd> The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), 2024, CCF-A</dd>
 </dl>
-<br>
-<br>
-<br>
+<!-- <br>
+<br> -->
+<!-- <br> -->
 
 ***
 
 <dl>
-<dt><img align="left" width="350"
+<dt><img align="left" width="320" height="220"
 hspace="0" wspace="0" src="../images/ECCV2024.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://arxiv.org/pdf/2407.05005"><strong>	
@@ -80,7 +80,7 @@ Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge M
 ***
 
 <dl>
-<dt><img align="left" width="350"
+<dt><img align="left" width="350" height="200"
 hspace="0" wspace="0" src="../images/TPDS.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://ieeexplore.ieee.org/abstract/document/10620614"><strong>	
@@ -96,7 +96,7 @@ SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning
 ***
 
 <dl>
-<dt><img align="left" width="350"
+<dt><img align="left" width="350" height="150"
 hspace="0" wspace="0" src="../images/CVPR2023.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf"><strong>	
@@ -105,9 +105,9 @@ DaFKD: Domain-aware Federated Knowledge Distillation
 <dd>Haozhao Wang&dagger;, <strong>Yichen Li&dagger;</strong>, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng</dd>
 <dd> The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023, CCF-A</font>**</dd>
 </dl>
-<br>
-<br>
-<br>
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
 
 ***
 
