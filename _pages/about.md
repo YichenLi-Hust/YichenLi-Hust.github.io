@@ -45,7 +45,7 @@ Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
 <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, CCF-A</dd>
 </dl>
 <br>
-<!-- <br> -->
+<br>
 <!-- <br> -->
 
 ***
