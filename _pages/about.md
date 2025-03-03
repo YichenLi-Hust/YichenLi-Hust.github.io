@@ -35,6 +35,22 @@ I am passionate about **distributed learning** among mobile devices. My current 
 
 ## 📝 Publications
 <dl>
+<dt><img align="left" width="350" height="150"
+hspace="0" wspace="0" src="../images/TPAMI.png" style="margin-right: 20px;">
+</dt>
+<dd><strong>	
+Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
+</strong></a></dd>
+<dd><strong>Yichen Li</strong>, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li</dd>
+<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, CCF-A</dd>
+</dl>
+<br>
+<!-- <br> -->
+<!-- <br> -->
+
+***
+
+<dl>
 <dt><img align="left" width="350" height="185"
 hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
 </dt>
@@ -94,22 +110,6 @@ SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning
 <br>
 <br>
 <br>
-
-***
-
-<dl>
-<dt><img align="left" width="350" height="150"
-hspace="0" wspace="0" src="../images/CVPR2023.png" style="margin-right: 20px;">
-</dt>
-<dd><strong>	
-Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
-</strong></a></dd>
-<dd><strong>Yichen Li</strong>, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li</dd>
-<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, CCF-A</dd>
-</dl>
-<br>
-<!-- <br> -->
-<!-- <br> -->
 
 ***
 
