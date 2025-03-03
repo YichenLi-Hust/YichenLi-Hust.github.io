@@ -40,7 +40,7 @@ hspace="0" wspace="0" src="../images/TPAMI.png" style="margin-right: 20px;">
 </dt>
 <dd><strong>	
 Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
-</strong></a></dd>
+</strong></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li</dd>
 <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, CCF-A</dd>
 </dl>
