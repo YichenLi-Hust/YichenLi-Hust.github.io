@@ -142,7 +142,7 @@ with Privacy Preference. The ACM International Conference on Multimedia Retrieva
 4. **Yichen Li**, Wenchao Xu, Yuying Wang, Yining Qi, Haozhao Wang, Bo Liu, Jingcai Guo, Ruixuan Li. Personalized Federated Incremental Learning with Chunked Hypernetworks. Submitted to IEEE Transactions on Mobile Computing (TMC) **<font color=Red>(CCF-A)</font>**
 5. **Yichen Li**, Xiuying Wang, Wenchao Xu, Haozhao Wang, Yining Qi, Jiahua Dong, Ruixuan Li. Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning. Submitted to The IEEE/CVF International Conference on Computer Vision (ICCV'25) **<font color=Red>(CCF-A)</font>**
 6. **Yichen Li**, Qiyu Qin, Gaoyang Zhu, Wenchao Xu, Haozhao Wang, Yuhua Li, Rui Zhang, Ruixuan Li. A Systematic Survey on Federated Sequential Recommendation. Submitted to The 34th International Joint Conference on Artificial Intelligence (IJCAI'25) **<font color=Red>(CCF-A)</font>**
-7. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient and * * Federated Recommendation for * * *. Submitted to The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'25) **<font color=Red>(CCF-A)</font>**
+7. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient and * * Federated Recommendation for * * *. Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
 
 ## 🏆 Honor & Award
 - 2025.01 Best Paper Award (<ins>最佳论文奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
