@@ -22,6 +22,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail, <ins>QQ</ins>: 243840749, or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 News
+- 2025.04: 🎉🎉 One project was granted by the Fundamental Research Funds for the Central Universities!
 - 2025.04: 🎉🎉 One paper was accepted by ICMR'25.
 - 2025.03: 🎉🎉 One paper was accepted by IEEE TPAMI.
 - 2025.01: 🎉🎉 One paper was accepted by WWW'25.
@@ -145,6 +146,7 @@ with Privacy Preference. The ACM International Conference on Multimedia Retrieva
 7. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient and * * Federated Recommendation for * * *. Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
 
 ## 🏆 Honor & Award
+- 2025.04 Granted by the Fundamental Research Funds for the Central Universities (<ins>研究生创新基金项目</ins>), Only ONE student in the School of Computer Sci. & Tech., HUST
 - 2025.01 Best Paper Award (<ins>最佳论文奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
 - 2025.01 Excellent Paper Award of the 3<sup>rd</sup>Annual Academic Conference (<ins>第三届学术年会优秀论文奖</ins>), School of Computer Sci. & Tech., HUST
 - 2024.12 Guotai Junan Scholarship (<ins>国泰君安奖学金</ins>), 2 Ph.D. students in the School of Computer Sci. & Tech., HUST
