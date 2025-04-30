@@ -165,6 +165,7 @@ with Privacy Preference. The ACM International Conference on Multimedia Retrieva
   
 ### Journal Reviewer
 - Reviewer for IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer for ACM Computing Surveys (CSUR)
 - Reviewer for ACM Transactions on Information Systems (TOIS)
