@@ -82,7 +82,6 @@ Towards Efficient Replay in Federated Incremental Learning
 </dl>
 <br>
 
-
 ***
 
 <dl>
@@ -96,8 +95,6 @@ Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge M
 <dd> The Eighteenth European Conference on Computer Vision (ECCV'24), 2024, CAAI-A</dd>
 </dl>
 <br>
-<!-- <br>
-<br> -->
 
 ***
 
@@ -118,7 +115,7 @@ SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning
 ***
 
 ### Conference Publications
-1. **Yichen Li**, Yuying Wang, Tianzhe Xiao, Haozhao Wang, Yining Qi, Ruixuan Li. [Rehearsal-Free Continual Federated Learning with Synergistic Regularization](https://arxiv.org/pdf/2412.13779). The Thirteenth International Conference on Learning Representations (ICML'25), Spotlight **<font color=Red>(CCF-A)</font>**
+1. **Yichen Li**, Yuying Wang, Tianzhe Xiao, Haozhao Wang, Yining Qi, Ruixuan Li. [Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence](https://arxiv.org/pdf/2412.13779). The Thirteenth International Conference on Learning Representations (ICML'25), Spotlight **<font color=Red>(CCF-A)</font>**
 2. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. [Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion](https://openreview.net/pdf?id=bhWngwuo74). The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
 3. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. [Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching](https://arxiv.org/pdf/2407.05005). The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A)</font>**
 4. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. [Towards Efficient Replay in Federated Incremental Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Efficient_Replay_in_Federated_Incremental_Learning_CVPR_2024_paper.pdf). The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), USA, 2024 **<font color=Red>(CCF-A)</font>**
