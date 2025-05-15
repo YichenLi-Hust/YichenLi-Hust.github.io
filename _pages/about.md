@@ -66,7 +66,6 @@ Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
 </dl>
 <br>
 <br>
-<!-- <br> -->
 
 ***
 
@@ -80,7 +79,6 @@ Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligen
 <dd><strong>Yichen Li</strong>, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li</dd>
 <dd> The Thirteenth International Conference on Learning Representations (ICML'25), 2025, CCF-A (Spotlight, Score=4.5)</dd>
 </dl>
-<br>
 
 ***
 
