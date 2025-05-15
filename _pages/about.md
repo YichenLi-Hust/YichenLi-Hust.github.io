@@ -39,6 +39,22 @@ I am passionate about **distributed learning** among mobile devices. My current 
 
 ## 📝 Publications
 <dl>
+<dt><img align="left" width="350" height="250"
+hspace="0" wspace="0" src="../images/COMST.png" style="margin-right: 20px;">
+</dt>
+<dd><a href="https://arxiv.org/pdf/2412.13840"><strong>	
+Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey
+</strong></a></dd>
+<dd><strong>Yichen Li</strong>, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li.</dd>
+<dd> IEEE Communications Surveys & Tutoriols (COMST), 2025, Q1 (Rk=1/155 IEEE, IF=35.6)</dd>
+</dl>
+<br>
+<br>
+<br>
+
+***
+
+<dl>
 <dt><img align="left" width="350" height="150"
 hspace="0" wspace="0" src="../images/TPAMI.png" style="margin-right: 20px;">
 </dt>
@@ -55,17 +71,15 @@ Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
 ***
 
 <dl>
-<dt><img align="left" width="350" height="185"
-hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
+<dt><img align="left" width="350" height="150"
+hspace="0" wspace="0" src="../images/ICML.png" style="margin-right: 20px;">
 </dt>
-<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
-Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+<dd><a href="https://arxiv.org/pdf/2412.13779"><strong>	
+Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence
 </strong></a></dd>
-<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
-<dd> The 34th ACM Web Conference (WWW'25), 2025, CCF-A</dd>
+<dd><strong>Yichen Li</strong>, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li</dd>
+<dd> The Thirteenth International Conference on Learning Representations (ICML'25), 2025, CCF-A (Spotlight, Score=4.5)</dd>
 </dl>
-<br>
-<br>
 <br>
 
 ***
@@ -85,37 +99,24 @@ Towards Efficient Replay in Federated Incremental Learning
 ***
 
 <dl>
-<dt><img align="left" width="350" height="150"
-hspace="0" wspace="0" src="../images/ECCV2024.png" style="margin-right: 20px;">
-</dt>
-<dd><a href="https://arxiv.org/pdf/2407.05005"><strong>	
-Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching
-</strong></a></dd>
-<dd><strong>Yichen Li</strong>, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo</dd>
-<dd> The Eighteenth European Conference on Computer Vision (ECCV'24), 2024, CAAI-A</dd>
-</dl>
-<br>
-
-***
-
-<dl>
 <dt><img align="left" width="350" height="185"
-hspace="0" wspace="0" src="../images/TPDS.png" style="margin-right: 20px;">
+hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
 </dt>
-<dd><a href="https://ieeexplore.ieee.org/abstract/document/10620614"><strong>	
-SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning
+<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
+Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
 </strong></a></dd>
-<dd><strong>Yichen Li</strong>, Wenchao Xu, Yining Qi, Haozhao Wang, Ruixuan Li, Song Guo</dd>
-<dd> IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024, CCF-A</dd>
+<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
+<dd> The 34th ACM Web Conference (WWW'25), 2025, CCF-A</dd>
 </dl>
 <br>
 <br>
 <br>
 
 ***
+
 
 ### Conference Publications
-1. **Yichen Li**, Yuying Wang, Tianzhe Xiao, Haozhao Wang, Yining Qi, Ruixuan Li. [Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence](https://arxiv.org/pdf/2412.13779). The Thirteenth International Conference on Learning Representations (ICML'25), Spotlight **<font color=Red>(CCF-A)</font>**
+1. **Yichen Li**, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li. [Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence](https://arxiv.org/pdf/2412.13779). The Thirteenth International Conference on Learning Representations (ICML'25), Spotlight **<font color=Red>(CCF-A)</font>**
 2. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. [Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion](https://openreview.net/pdf?id=bhWngwuo74). The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
 3. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. [Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching](https://arxiv.org/pdf/2407.05005). The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A)</font>**
 4. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. [Towards Efficient Replay in Federated Incremental Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Efficient_Replay_in_Federated_Incremental_Learning_CVPR_2024_paper.pdf). The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), USA, 2024 **<font color=Red>(CCF-A)</font>**
