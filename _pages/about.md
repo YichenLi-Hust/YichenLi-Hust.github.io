@@ -143,6 +143,12 @@ with Privacy Preference](https://arxiv.org/pdf/2505.04889). The ACM Internationa
 3. **Yichen Li**, Xiuying Wang, Wenchao Xu, Haozhao Wang, Yining Qi, Jiahua Dong, Ruixuan Li. Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning. Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
 4. **Yichen Li**, Qiyu Qin, Gaoyang Zhu, Wenchao Xu, Haozhao Wang, Yuhua Li, Rui Zhang, Ruixuan Li. [A Systematic Survey on Federated Sequential Recommendation](https://arxiv.org/pdf/2504.05313). Arxiv
 5. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient Knowledge Transfer in Federated Recommendation for Joint Venture Ecosystem. Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
+6. Tianzhe Xiao, **Yichen Li**, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. Enhancing Privacy in Multimodal Federated Learning with Information Theory. Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
+7. Tianzhe Xiao, **Yichen Li**, Yining Qi, Haozhao Wang, Ruixuan Li. [FedGIG: Graph Inversion from Gradient in Federated Learning](https://arxiv.org/pdf/2412.18513). Arxiv
+8. Jiahua Dong, Wenqi Liang, Yang Cong, **Yichen Li**, Hongyuan Yu, Henghui Ding, Yulun Zhang, Salman Khan and Fahad Shahbaz Khan. Task Relevance-Driven Prompt Expansion
+for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) **<font color=Red>(CCF-A)</font>**
+9. Lingxiao Kong, Wenchao Xu, Chenran Zhang, Lei Wu, Haozhao Wang, **Yichen Li**, Ruixuan Li. SplitFed: Feature-Based Defense against Byzantine Attacks in Split Learning. Submitted to European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'25) **<font color=Blue>(CCF-B)</font>**
+
 
 ## 🏆 Honor & Award
 - 2025.04 Granted by the Fundamental Research Funds for the Central Universities (<ins>研究生创新基金项目</ins>), Only ONE student in the School of Computer Sci. & Tech., HUST
