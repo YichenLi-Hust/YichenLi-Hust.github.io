@@ -78,7 +78,7 @@ hspace="0" wspace="0" src="../images/ICML.png" style="margin-right: 20px;">
 Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li</dd>
-<dd> The Thirteenth International Conference on Learning Representations (ICML'25), 2025, CCF-A (Spotlight, Score=4.5)</dd>
+<dd> The Thirteenth International Conference on Learning Representations (ICML'25), 2025, CCF-A (Spotlight)</dd>
 </dl>
 <br>
 
@@ -124,9 +124,9 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 6. Haozhao Wang, **Yichen Li**, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng. [DaFKD: Domain-aware Federated Knowledge Distillation](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf). The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), Canada, 2023 **<font color=Red>(CCF-A)</font>**
 7. Tianzhe Xiao, **Yichen Li**, Yu Zhou, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. [FedRE: Robust and Effective Federated Learning
 with Privacy Preference](https://arxiv.org/pdf/2505.04889). The ACM International Conference on Multimedia Retrieval (ICMR'25), USA, 2025 (Co-author) **<font color=Blue>(CCF-B)</font>**
-8. Juan Zhao, Xiaoquan Yi, Ruixuan Li, Yuhua Li, Haozhao Wang, **Yichen Li**, Zhiying Deng, Zijun Xu. [FedTA: Unsupervised Federated Prototype Learning with Temperature Adaptation](http://www.ieee-hust-ncc.org/2024/ICESS/Presentation%20Program.pdf). IEEE International Conference on High Performance Computing and Communications (HPCC'24), China, 2024 **<font color=Green>(CCF-C)</font>**
-9. Hao Zhu, **Yichen Li**, Jie Li, Xiaofang Zhang. [An Efficient Design Smell Detection Approach with Inter-class Relation](https://ksiresearch.org/seke/seke23paper/paper208.pdf). The 35th International Conference on Software Engineering and Knowledge Engineering (SEKE'23), USA, 2023 **<font color=Green>(CCF-C)</font>**
-10. **Yichen Li**, Xiaofang Zhang. [Multi-Label Code Smell Detection with Hybrid Model based on Deep Learning](http://ksiresearch.org/seke/seke22paper/paper077.pdf). The 34th International Conference on Software Engineering and Knowledge Engineering (SEKE'22), USA, 2022 **<font color=Green>(CCF-C)</font>**
+<!--8. Juan Zhao, Xiaoquan Yi, Ruixuan Li, Yuhua Li, Haozhao Wang, **Yichen Li**, Zhiying Deng, Zijun Xu. [FedTA: Unsupervised Federated Prototype Learning with Temperature Adaptation](http://www.ieee-hust-ncc.org/2024/ICESS/Presentation%20Program.pdf). IEEE International Conference on High Performance Computing and Communications (HPCC'24), China, 2024 **<font color=Green>(CCF-C)</font>**-->
+8. Hao Zhu, **Yichen Li**, Jie Li, Xiaofang Zhang. [An Efficient Design Smell Detection Approach with Inter-class Relation](https://ksiresearch.org/seke/seke23paper/paper208.pdf). The 35th International Conference on Software Engineering and Knowledge Engineering (SEKE'23), USA, 2023 **<font color=Green>(CCF-C)</font>**
+9. **Yichen Li**, Xiaofang Zhang. [Multi-Label Code Smell Detection with Hybrid Model based on Deep Learning](http://ksiresearch.org/seke/seke22paper/paper077.pdf). The 34th International Conference on Software Engineering and Knowledge Engineering (SEKE'22), USA, 2022 **<font color=Green>(CCF-C)</font>**
    
 ***
 
