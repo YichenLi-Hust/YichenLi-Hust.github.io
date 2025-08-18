@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (2<sup>nd</sup> year student, 2023.09-2028.06) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm) and [Dr. Haozhao Wang](https://wanghaozhao.mysxl.cn/). Meanwhile, I am also a visiting scholar in the Department of Computational Biology at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by [Prof. Imran Razzak](https://imranrazzak.github.io/). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) from HUST, and [Prof. Wenchao Xu](https://huasion23.github.io/) from HKUST. 
+Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (2<sup>nd</sup> year student, 2023.09-2028.06) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm) and [Dr. Haozhao Wang](https://wanghaozhao.mysxl.cn/). Meanwhile, I am also a visiting scholar in the Department of Computational Biology at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by [Prof. Imran Razzak](https://imranrazzak.github.io/) and [Prof. Eran Segal](https://www.wisdom.weizmann.ac.il/~/eran/). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) from HUST, and [Prof. Wenchao Xu](https://huasion23.github.io/) from HKUST. 
 
 
 **<ins>❤️‍🔥🔜: <font color=Blue>I am seeking opportunities to serve as a Research Assistant, with aspirations for a future role as a Postdoc (2-3 years later) ! ! !</font></ins>**
