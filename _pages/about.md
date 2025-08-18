@@ -151,6 +151,7 @@ with Privacy Preference](https://arxiv.org/pdf/2505.04889). The ACM Internationa
 10. Qiyu Qin, **Yichen Li**, Haozhao Wang, Cheng Wang, Rui Zhang, Ruixuan Li. Unbiased Rectification for Sequential Recommender Systems under Fake Orders. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
 11. Tianzhe Xiao, **Yichen Li**, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. Enhancing Privacy in Multimodal Federated Learning with Information Theory. Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
 12. Tianzhe Xiao, **Yichen Li**, Yining Qi, Haozhao Wang, Ruixuan Li. [FedGIG: Graph Inversion from Gradient in Federated Learning](https://arxiv.org/pdf/2412.18513). Arxiv
+
 <!--9. Jiahua Dong, Wenqi Liang, Yang Cong, **Yichen Li**, Hongyuan Yu, Henghui Ding, Yulun Zhang, Salman Khan and Fahad Shahbaz Khan. Task Relevance-Driven Prompt Expansion
 for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) **<font color=Red>(CCF-A)</font>**
 10. Lingxiao Kong, Wenchao Xu, Chenran Zhang, Lei Wu, Haozhao Wang, **Yichen Li**, Ruixuan Li. SplitFed: Feature-Based Defense against Byzantine Attacks in Split Learning. Submitted to Neural Networks (NN) **<font color=Blue>(CCF-B)</font>**-->
