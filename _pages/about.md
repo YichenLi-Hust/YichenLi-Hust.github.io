@@ -48,7 +48,7 @@ hspace="0" wspace="0" src="../images/COMST.png" style="margin-right: 20px;">
 Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li.</dd>
-<dd> IEEE Communications Surveys & Tutorials (<strong>COMST</strong>), 2025, <strong><font color=Red>Q1 (Rk=1/155 IEEE, IF=46.7)</font></strong></dd>
+<dd> IEEE Communications Surveys & Tutorials (<strong>COMST</strong>), 2025, <strong><font color=Red>Q1 (Rk=1/168 IEEE, IF=46.7)</font></strong></dd>
 </dl>
 <br>
 <br>
@@ -64,7 +64,7 @@ hspace="0" wspace="0" src="../images/TPAMI.png" style="margin-right: 20px;">
 Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li</dd>
-<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025, <strong><font color=Red>CCF-A (Rk=3/155 IEEE, IF=18.6)</font></strong></dd>
+<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025, <strong><font color=Red>CCF-A (Rk=3/168 IEEE, IF=18.6)</font></strong></dd>
 </dl>
 <br>
 <br>
@@ -137,8 +137,8 @@ with Privacy Preference](https://arxiv.org/pdf/2505.04889). The ACM Internationa
 ***
 
 ### Journal Publications 
-1. **Yichen Li**, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li. [Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey](https://arxiv.org/pdf/2412.13840). IEEE Communications Surveys & Tutorials (COMST) **<font color=Red>(Top 1, IF=46.7)</font>**
-2. **Yichen Li**, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li. [Re-Fed+: A Better Replay Strategy for Federated Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10930690). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025 **<font color=Red>(CCF-A)</font>**
+1. **Yichen Li**, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li. [Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey](https://arxiv.org/pdf/2412.13840). IEEE Communications Surveys & Tutorials (COMST) **<font color=Red>(Top 1/168 in IEEE, IF=46.7)</font>**
+2. **Yichen Li**, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li. [Re-Fed+: A Better Replay Strategy for Federated Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10930690). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025 **<font color=Red>(CCF-A, Top 3/168 in IEEE, IF=18.6)</font>**
 3. **Yichen Li**, Wenchao Xu, Yining Qi, Haozhao Wang, Ruixuan Li, Song Guo. [SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10620614). IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024 **<font color=Red>(CCF-A)</font>**
 4. Yuying Wang, **Yichen Li<sup>*</sup>**, Haozhao Wang, Lei Zhao, Xiaofang Zhang. [Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction](https://arxiv.org/pdf/2412.17317). Journal of Software: Evolution and Process (JSEP), 2024 (Corresponding Author) **<font color=Blue>(CCF-B)</font>**
 5. Jianian Zhu, **Yichen Li**, Haozhao Wang, Yining Qi, Ruixuan Li. [Hypernetwork-Driven Centralized Contrastive Learning for Federated Graph Classification](https://www.researchsquare.com/article/rs-3887032/latest.pdf). World Wide Web Journal (WWWJ), 2024 **<font color=Blue>(CCF-B)</font>**
