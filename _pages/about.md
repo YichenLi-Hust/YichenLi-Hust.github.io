@@ -48,7 +48,7 @@ hspace="0" wspace="0" src="../images/COMST.png" style="margin-right: 20px;">
 Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li.</dd>
-<dd> IEEE Communications Surveys & Tutorials (**COMST**), 2025, **<font color=Red>Q1 (Rk=1/155 IEEE, IF=46.7)</font>**</dd>
+<dd> IEEE Communications Surveys & Tutorials (<strong>COMST</strong>), 2025, <strong><font color=Red>Q1 (Rk=1/155 IEEE, IF=46.7)</font></strong></dd>
 </dl>
 <br>
 <br>
@@ -64,7 +64,7 @@ hspace="0" wspace="0" src="../images/TPAMI.png" style="margin-right: 20px;">
 Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li</dd>
-<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025, **<font color=Red>CCF-A (Rk=3/155 IEEE, IF=18.6)</font>**</dd>
+<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025, <strong><font color=Red>CCF-A (Rk=3/155 IEEE, IF=18.6)</font></strong></dd>
 </dl>
 <br>
 <br>
@@ -79,7 +79,7 @@ hspace="0" wspace="0" src="../images/ICML.png" style="margin-right: 20px;">
 FedSSI: Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li</dd>
-<dd> The Thirteenth International Conference on Learning Representations (**ICML'25**), 2025, **<font color=Red>CCF-A (Spotlight)</font>**</dd>
+<dd> The Thirteenth International Conference on Learning Representations (<strong>ICML'25</strong>), 2025, <strong><font color=Red>CCF-A (Spotlight)</font></strong></dd>
 </dl>
 <br>
 
@@ -93,7 +93,7 @@ hspace="0" wspace="0" src="../images/Nips.png" style="margin-right: 20px;">
 Efficient Knowledge Transfer in Federated Recommendation for Joint Venture Ecosystem
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
-<dd> The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS'25**), 2025, **<font color=Red>CCF-A (Spotlight)</font>**</dd>
+<dd> The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS'25</strong>), 2025, <strong><font color=Red>CCF-A (Spotlight)</font></strong></dd>
 </dl>
 <br>
 <br>
@@ -109,7 +109,7 @@ hspace="0" wspace="0" src="../images/CVPR2024.png" style="margin-right: 20px;">
 Towards Efficient Replay in Federated Incremental Learning
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang</dd>
-<dd> The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**), 2024, **<font color=Red>CCF-A</font>**</dd>
+<dd> The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR'24</strong>), 2024, <strong><font color=Red>CCF-A</font></strong></dd>
 </dl>
 
 <br>
