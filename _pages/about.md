@@ -48,7 +48,7 @@ hspace="0" wspace="0" src="../images/COMST.png" style="margin-right: 20px;">
 Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li.</dd>
-<dd> IEEE Communications Surveys & Tutorials (COMST), 2025, Q1 (Rk=1/155 IEEE, IF=46.7)</dd>
+<dd> IEEE Communications Surveys & Tutorials (COMST), 2025, **<font color=Red>Q1 (Rk=1/155 IEEE, IF=46.7)</font>**</dd>
 </dl>
 <br>
 <br>
@@ -64,7 +64,7 @@ hspace="0" wspace="0" src="../images/TPAMI.png" style="margin-right: 20px;">
 Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li</dd>
-<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, CCF-A ((Rk=3/155 IEEE, IF=18.6))</dd>
+<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, CCF-A (Rk=3/155 IEEE, IF=18.6)</dd>
 </dl>
 <br>
 <br>
