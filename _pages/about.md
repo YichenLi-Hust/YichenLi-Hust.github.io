@@ -64,7 +64,7 @@ hspace="0" wspace="0" src="../images/TPAMI.png" style="margin-right: 20px;">
 Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li</dd>
-<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, CCF-A</dd>
+<dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, CCF-A ((Rk=3/155 IEEE, IF=18.6))</dd>
 </dl>
 <br>
 <br>
@@ -86,6 +86,20 @@ Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligen
 ***
 
 <dl>
+<dt><img align="left" width="350" height="185"
+hspace="0" wspace="0" src="../images/Nips.png" style="margin-right: 20px;">
+</dt>
+<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
+Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+</strong></a></dd>
+<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
+<dd> The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25), 2025, CCF-A (Spotlight)</dd>
+</dl>
+<br>
+
+***
+
+<dl>
 <dt><img align="left" width="350" height="150"
 hspace="0" wspace="0" src="../images/CVPR2024.png" style="margin-right: 20px;">
 </dt>
@@ -96,22 +110,9 @@ Towards Efficient Replay in Federated Incremental Learning
 <dd> The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), 2024, CCF-A</dd>
 </dl>
 <br>
+<br>
+<br>
 
-***
-
-<dl>
-<dt><img align="left" width="350" height="185"
-hspace="0" wspace="0" src="../images/WWW.png" style="margin-right: 20px;">
-</dt>
-<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
-Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
-</strong></a></dd>
-<dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
-<dd> The 34th ACM Web Conference (WWW'25), 2025, CCF-A</dd>
-</dl>
-<br>
-<br>
-<br>
 
 ***
 
