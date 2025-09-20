@@ -89,7 +89,7 @@ FedSSI: Rehearsal-Free Continual Federated Learning with Synergistic Synaptic In
 <dt><img align="left" width="350" height="185"
 hspace="0" wspace="0" src="../images/Nips.png" style="margin-right: 20px;">
 </dt>
-<dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
+<dd><a href="None"><strong>	
 Efficient Knowledge Transfer in Federated Recommendation for Joint Venture Ecosystem
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
