@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (3<sup>rd</sup> year student, 2023.09-2028.01) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm) and [Dr. Haozhao Wang](https://wanghaozhao.mysxl.cn/). Meanwhile, I am also a visiting student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) from HUST, and [Prof. Wenchao Xu](https://huasion23.github.io/) from HKUST. 
+Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (3<sup>rd</sup> year student, 2023.09-2028.01) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm) and [Prof. Haozhao Wang](https://wanghaozhao.mysxl.cn/). Meanwhile, I am also a visiting student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) from HUST, and [Prof. Wenchao Xu](https://huasion23.github.io/) from HKUST. 
 
 
 **<ins>❤️‍🔥🔜: <font color=Blue>I am seeking opportunities to serve as a Research Assistant, with aspirations for a future role as a Postdoc (2 years later) ! ! !</font></ins>**
@@ -76,7 +76,7 @@ Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
 hspace="0" wspace="0" src="../images/ICML.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://arxiv.org/pdf/2412.13779"><strong>	
-Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence
+FedSSI: Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li</dd>
 <dd> The Thirteenth International Conference on Learning Representations (ICML'25), 2025, CCF-A (Spotlight)</dd>
@@ -90,11 +90,13 @@ Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligen
 hspace="0" wspace="0" src="../images/Nips.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://openreview.net/pdf?id=bhWngwuo74"><strong>	
-Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+Efficient Knowledge Transfer in Federated Recommendation for Joint Venture Ecosystem
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li</dd>
 <dd> The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25), 2025, CCF-A (Spotlight)</dd>
 </dl>
+<br>
+<br>
 <br>
 
 ***
@@ -109,10 +111,8 @@ Towards Efficient Replay in Federated Incremental Learning
 <dd><strong>Yichen Li</strong>, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang</dd>
 <dd> The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), 2024, CCF-A</dd>
 </dl>
-<br>
-<br>
-<br>
 
+<br>
 
 ***
 
@@ -122,7 +122,7 @@ Towards Efficient Replay in Federated Incremental Learning
 2. **Yichen Li**, Yuying Wang, Jiahua Dong, Haozhao Wang, Yining Qi, Rui Zhang, Ruixuan Li. [Resource-Constrained Federated Continual Learning: What Does Matter?](https://arxiv.org/pdf/2501.08737?). The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
 3. **Yichen Li**, Xiuying Wang, Wenchao Xu, Haozhao Wang, Yining Qi, Jiahua Dong, Ruixuan Li. Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
 4. Tianzhe Xiao, **Yichen Li**, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. Enhancing Privacy in Multimodal Federated Learning with Information Theory. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
-5. **Yichen Li**, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li. [Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence](https://arxiv.org/pdf/2412.13779). The Thirteenth International Conference on Learning Representations (ICML'25), Spotlight **<font color=Red>(CCF-A)</font>**
+5. **Yichen Li**, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li. [FedSSI: Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence](https://arxiv.org/pdf/2412.13779). The Thirteenth International Conference on Learning Representations (ICML'25), Spotlight **<font color=Red>(CCF-A)</font>**
 6. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. [Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion](https://openreview.net/pdf?id=bhWngwuo74). The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
 7. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. [Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching](https://arxiv.org/pdf/2407.05005). The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A)</font>**
 8. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. [Towards Efficient Replay in Federated Incremental Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Efficient_Replay_in_Federated_Incremental_Learning_CVPR_2024_paper.pdf). The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), USA, 2024 **<font color=Red>(CCF-A)</font>**
