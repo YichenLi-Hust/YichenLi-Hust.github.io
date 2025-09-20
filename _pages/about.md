@@ -28,7 +28,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2025.05: 🎉🎉 One paper was accepted by IEEE COMST (IF=46.7, Top 1 in IEEE)!
 - 2025.04: 🎉🎉 One project was granted by the Fundamental Research Funds for the Central Universities!
 - 2025.04: 🎉🎉 One paper was accepted by ICMR'25.
-- 2025.03: 🎉🎉 One paper was accepted by IEEE TPAMI.
+- 2025.03: 🎉🎉 One paper was accepted by IEEE TPAMI (IF=18.6, Top 3 in IEEE)!
 - 2025.01: 🎉🎉 One paper was accepted by WWW'25.
 - 2025.01: 🎉🎉 I became a Ph.D. Candidate!
 - 2024.12: 🎉🎉 One paper was accepted by JSEP (Corresponding Author).
@@ -116,18 +116,22 @@ Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledg
 ***
 
 
-### Conference Publications
-1. **Yichen Li**, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li. [Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence](https://arxiv.org/pdf/2412.13779). The Thirteenth International Conference on Learning Representations (ICML'25), Spotlight **<font color=Red>(CCF-A)</font>**
-2. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. [Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion](https://openreview.net/pdf?id=bhWngwuo74). The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
-3. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. [Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching](https://arxiv.org/pdf/2407.05005). The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A)</font>**
-4. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. [Towards Efficient Replay in Federated Incremental Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Efficient_Replay_in_Federated_Incremental_Learning_CVPR_2024_paper.pdf). The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), USA, 2024 **<font color=Red>(CCF-A)</font>**
-5. Haozhao Wang, Haoran Xu, **Yichen Li**, Ruixuan Li, Tianwei Zhang. [FedCDA: Federated Learning with Cross-rounds Divergence-aware Aggregation](https://openreview.net/pdf?id=nbPGqeH3lt). Twelfth International Conference on Learning Representations (ICLR'24), Austria, 2024 (Co-author) **<font color=Red>(CAAI-A)</font>**
-6. Haozhao Wang, **Yichen Li**, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng. [DaFKD: Domain-aware Federated Knowledge Distillation](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf). The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), Canada, 2023 **<font color=Red>(CCF-A)</font>**
-7. Tianzhe Xiao, **Yichen Li**, Yu Zhou, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. [FedRE: Robust and Effective Federated Learning
+### Conference Publication
+1. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient Knowledge Transfer in Federated Recommendation for Joint Venture Ecosystem. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25), Spotlight **<font color=Red>(CCF-A)</font>**
+2. **Yichen Li**, Yuying Wang, Jiahua Dong, Haozhao Wang, Yining Qi, Rui Zhang, Ruixuan Li. [Resource-Constrained Federated Continual Learning: What Does Matter?](https://arxiv.org/pdf/2501.08737?). The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
+3. **Yichen Li**, Xiuying Wang, Wenchao Xu, Haozhao Wang, Yining Qi, Jiahua Dong, Ruixuan Li. Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
+4. Tianzhe Xiao, **Yichen Li**, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. Enhancing Privacy in Multimodal Federated Learning with Information Theory. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
+5. **Yichen Li**, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li. [Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence](https://arxiv.org/pdf/2412.13779). The Thirteenth International Conference on Learning Representations (ICML'25), Spotlight **<font color=Red>(CCF-A)</font>**
+6. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. [Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion](https://openreview.net/pdf?id=bhWngwuo74). The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
+7. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. [Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching](https://arxiv.org/pdf/2407.05005). The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A)</font>**
+8. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. [Towards Efficient Replay in Federated Incremental Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Efficient_Replay_in_Federated_Incremental_Learning_CVPR_2024_paper.pdf). The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), USA, 2024 **<font color=Red>(CCF-A)</font>**
+9. Haozhao Wang, Haoran Xu, **Yichen Li**, Ruixuan Li, Tianwei Zhang. [FedCDA: Federated Learning with Cross-rounds Divergence-aware Aggregation](https://openreview.net/pdf?id=nbPGqeH3lt). Twelfth International Conference on Learning Representations (ICLR'24), Austria, 2024 (Co-author) **<font color=Red>(CAAI-A)</font>**
+10. Haozhao Wang, **Yichen Li**, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng. [DaFKD: Domain-aware Federated Knowledge Distillation](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf). The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), Canada, 2023 **<font color=Red>(CCF-A)</font>**
+11. Tianzhe Xiao, **Yichen Li**, Yu Zhou, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. [FedRE: Robust and Effective Federated Learning
 with Privacy Preference](https://arxiv.org/pdf/2505.04889). The ACM International Conference on Multimedia Retrieval (ICMR'25), USA, 2025 (Co-author) **<font color=Blue>(CCF-B)</font>**
 <!--8. Juan Zhao, Xiaoquan Yi, Ruixuan Li, Yuhua Li, Haozhao Wang, **Yichen Li**, Zhiying Deng, Zijun Xu. [FedTA: Unsupervised Federated Prototype Learning with Temperature Adaptation](http://www.ieee-hust-ncc.org/2024/ICESS/Presentation%20Program.pdf). IEEE International Conference on High Performance Computing and Communications (HPCC'24), China, 2024 **<font color=Green>(CCF-C)</font>**-->
-8. Hao Zhu, **Yichen Li**, Jie Li, Xiaofang Zhang. [An Efficient Design Smell Detection Approach with Inter-class Relation](https://ksiresearch.org/seke/seke23paper/paper208.pdf). The 35th International Conference on Software Engineering and Knowledge Engineering (SEKE'23), USA, 2023 **<font color=Green>(CCF-C)</font>**
-9. **Yichen Li**, Xiaofang Zhang. [Multi-Label Code Smell Detection with Hybrid Model based on Deep Learning](http://ksiresearch.org/seke/seke22paper/paper077.pdf). The 34th International Conference on Software Engineering and Knowledge Engineering (SEKE'22), USA, 2022 **<font color=Green>(CCF-C)</font>**
+12. Hao Zhu, **Yichen Li**, Jie Li, Xiaofang Zhang. [An Efficient Design Smell Detection Approach with Inter-class Relation](https://ksiresearch.org/seke/seke23paper/paper208.pdf). The 35th International Conference on Software Engineering and Knowledge Engineering (SEKE'23), USA, 2023 **<font color=Green>(CCF-C)</font>**
+13. **Yichen Li**, Xiaofang Zhang. [Multi-Label Code Smell Detection with Hybrid Model based on Deep Learning](http://ksiresearch.org/seke/seke22paper/paper077.pdf). The 34th International Conference on Software Engineering and Knowledge Engineering (SEKE'22), USA, 2022 **<font color=Green>(CCF-C)</font>**
    
 ***
 
@@ -140,18 +144,14 @@ with Privacy Preference](https://arxiv.org/pdf/2505.04889). The ACM Internationa
 6. **Yichen Li**, An Liu, Lei Zhao, Xiaofang Zhang. [Hybrid model with multi-level code representation for multi-label code smell detection](https://drive.google.com/file/u/0/d/15fFOKyOnworRGOhDd_dCSmjN8obxEh0C/view). International Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2022 **<font color=Green>(CCF-C)</font>**
 
 ## 🙂 Preprint
-1. **Yichen Li**, Yuying Wang, Jiahua Dong, Haozhao Wang, Yining Qi, Rui Zhang, Ruixuan Li. [Resource-Constrained Federated Continual Learning: What Does Matter?](https://arxiv.org/pdf/2501.08737?). Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
-2. **Yichen Li**, Wenchao Xu, Yuying Wang, Yining Qi, Haozhao Wang, Bo Liu, Jingcai Guo, Ruixuan Li. Personalized Federated Incremental Learning with Chunked Hypernetworks. Submitted to IEEE Transactions on Mobile Computing (TMC) **<font color=Red>(CCF-A)</font>**
-3. **Yichen Li**, Xiuying Wang, Wenchao Xu, Haozhao Wang, Yining Qi, Jiahua Dong, Ruixuan Li. Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning. Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
-4. **Yichen Li**, Qiyu Qin, Gaoyang Zhu, Wenchao Xu, Haozhao Wang, Yuhua Li, Rui Zhang, Ruixuan Li. [A Systematic Survey on Federated Sequential Recommendation](https://arxiv.org/pdf/2504.05313). Arxiv
-5. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Cheng Wang, Wei Wang, Yi Wang, Ruixuan Li. Efficient Knowledge Transfer in Federated Recommendation for Joint Venture Ecosystem. Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
-6. **Yichen Li**, Hang Su, Huifa Li, Haolin Yang, Xinlin Zhuang, Haochen Xue, Haozhao Wang, Imran Razzak. FedCD: Towards Consolidated Distillation for Heterogeneous Federated Learning. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
-7. **Yichen Li**, Yichen Tan, Yijing Shan, Haozhao Wang, Rui Zhang, Imran Razzak, Ruixuan Li. Data-Centric Sequential Recommendation with Relation-Augmented Generation. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
-8. Hang Su, Zhiyu Zhang, **Yichen Li<sup>*</sup>**, Yankai Jiang, Bo Liu, Yijun Mo, Imran Razzak. Data-free Calibration for Federated Continual Learning under Asynchronous Concept Drift. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
-9. Xiuying Wang, **Yichen Li<sup>*</sup>**, Hang Su, Gaozhuo Liu, Shiwei Li, Huifa Li, Imaran Razzak. Lightweight Federated Incremental Learning via Decoupled Replay. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
-10. Qiyu Qin, **Yichen Li**, Haozhao Wang, Cheng Wang, Rui Zhang, Ruixuan Li. Unbiased Rectification for Sequential Recommender Systems under Fake Orders. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
-11. Tianzhe Xiao, **Yichen Li**, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li. Enhancing Privacy in Multimodal Federated Learning with Information Theory. Submitted to The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25) **<font color=Red>(CCF-A)</font>**
-12. Tianzhe Xiao, **Yichen Li**, Yining Qi, Haozhao Wang, Ruixuan Li. [FedGIG: Graph Inversion from Gradient in Federated Learning](https://arxiv.org/pdf/2412.18513). Arxiv
+1. **Yichen Li**, Wenchao Xu, Yuying Wang, Yining Qi, Haozhao Wang, Bo Liu, Jingcai Guo, Ruixuan Li. Personalized Federated Incremental Learning with Chunked Hypernetworks. Submitted to IEEE Transactions on Parallel and Distributed Systems (TPDS) **<font color=Red>(CCF-A)</font>**
+2. **Yichen Li**, Qiyu Qin, Gaoyang Zhu, Wenchao Xu, Haozhao Wang, Yuhua Li, Rui Zhang, Ruixuan Li. [A Systematic Survey on Federated Sequential Recommendation](https://arxiv.org/pdf/2504.05313). Arxiv
+3. **Yichen Li**, Hang Su, Huifa Li, Haolin Yang, Xinlin Zhuang, Haochen Xue, Haozhao Wang, Imran Razzak. FedCD: Towards Consolidated Distillation for Heterogeneous Federated Learning. Arxiv
+4. **Yichen Li**, Yichen Tan, Yijing Shan, Haozhao Wang, Rui Zhang, Imran Razzak, Ruixuan Li. Data-Centric Sequential Recommendation with Relation-Augmented Generation. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
+5. Hang Su, Zhiyu Zhang, **Yichen Li<sup>*</sup>**, Yankai Jiang, Bo Liu, Yijun Mo, Imran Razzak. Data-free Calibration for Federated Continual Learning under Asynchronous Concept Drift. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
+6. Xiuying Wang, **Yichen Li<sup>*</sup>**, Hang Su, Gaozhuo Liu, Shiwei Li, Huifa Li, Imaran Razzak. Lightweight Federated Incremental Learning via Decoupled Replay. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
+7. Qiyu Qin, **Yichen Li**, Haozhao Wang, Cheng Wang, Rui Zhang, Ruixuan Li. Unbiased Rectification for Sequential Recommender Systems under Fake Orders. Submitted to The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26) **<font color=Red>(CCF-A)</font>**
+8. Tianzhe Xiao, **Yichen Li**, Yining Qi, Haozhao Wang, Ruixuan Li. [FedGIG: Graph Inversion from Gradient in Federated Learning](https://arxiv.org/pdf/2412.18513). Arxiv
 
 <!--9. Jiahua Dong, Wenqi Liang, Yang Cong, **Yichen Li**, Hongyuan Yu, Henghui Ding, Yulun Zhang, Salman Khan and Fahad Shahbaz Khan. Task Relevance-Driven Prompt Expansion
 for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) **<font color=Red>(CCF-A)</font>**
@@ -171,7 +171,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 
 ## 💬 Academic Service
 ### Conference Committee Member
-- Reviewer for ICML'25, ICLR'25, NeurIPS'24/25
+- Reviewer for ICML'25, ICLR'25/26, NeurIPS'24/25
 - Reviewer for CVPR'25, ICCV'25, ECCV'24
 - Reviewer for IJCAI'25, AAAI'25, WWW'25, KDD'25
   
