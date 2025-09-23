@@ -27,7 +27,6 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2025.05: 🎉🎉 One paper was accepted by ICML'25 (Spotlight)!
 - 2025.05: 🎉🎉 One paper was accepted by IEEE COMST (IF=46.7, Top 1 in IEEE)!
 - 2025.04: 🎉🎉 One project was granted by the Fundamental Research Funds for the Central Universities!
-- 2025.04: 🎉🎉 One paper was accepted by ICMR'25.
 - 2025.03: 🎉🎉 One paper was accepted by IEEE TPAMI (IF=18.6, Top 3 in IEEE)!
 - 2025.01: 🎉🎉 One paper was accepted by WWW'25.
 - 2025.01: 🎉🎉 I became a Ph.D. Candidate!
@@ -159,6 +158,9 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 10. Lingxiao Kong, Wenchao Xu, Chenran Zhang, Lei Wu, Haozhao Wang, **Yichen Li**, Ruixuan Li. SplitFed: Feature-Based Defense against Byzantine Attacks in Split Learning. Submitted to Neural Networks (NN) **<font color=Blue>(CCF-B)</font>**-->
 
 ## 🏆 Honor & Award
+- 2025.09 National Scholarship for Ph.D. Students, China
+- 2025.09 Merit Student (<ins>三好学生</ins>), HUST
+- 2025.09 Science and Technology Innovation Award，(<ins>科技创新奖</ins>), HUST
 - 2025.04 Granted by the Fundamental Research Funds for the Central Universities (<ins>研究生创新基金项目</ins>), Only ONE student in the School of Computer Sci. & Tech., HUST
 - 2025.01 Best Paper Award (<ins>最佳论文奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
 - 2025.01 Excellent Paper Award of the 3<sup>rd</sup>Annual Academic Conference (<ins>第三届学术年会优秀论文奖</ins>), School of Computer Sci. & Tech., HUST
