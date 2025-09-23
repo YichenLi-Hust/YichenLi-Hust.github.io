@@ -158,7 +158,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 10. Lingxiao Kong, Wenchao Xu, Chenran Zhang, Lei Wu, Haozhao Wang, **Yichen Li**, Ruixuan Li. SplitFed: Feature-Based Defense against Byzantine Attacks in Split Learning. Submitted to Neural Networks (NN) **<font color=Blue>(CCF-B)</font>**-->
 
 ## 🏆 Honor & Award
-- 2025.09 National Scholarship for Ph.D. Students (<ins>国家奖学金（博士生）</ins>), China
+- 2025.09 National Scholarship for Ph.D. Students (<ins>博士生国家奖学金</ins>), China
 - 2025.09 Merit Student (<ins>三好学生</ins>), HUST
 - 2025.09 Science and Technology Innovation Award，(<ins>科技创新奖</ins>), HUST
 - 2025.04 Granted by the Fundamental Research Funds for the Central Universities (<ins>研究生创新基金项目</ins>), Only ONE student in the School of Computer Sci. & Tech., HUST
