@@ -177,7 +177,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 
 ## 💬 Academic Service
 ### Conference Committee Member
-- Reviewer for ICML'25, ICLR'25/26, NeurIPS'24/25
+- Reviewer for ICML'25/26, ICLR'25/26, NeurIPS'24/25
 - Reviewer for CVPR'25, ICCV'25, ECCV'24
 - Reviewer for IJCAI'25, AAAI'25, WWW'25, KDD'25
   
@@ -187,4 +187,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 - Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer for ACM Computing Surveys (CSUR)
 - Reviewer for ACM Transactions on Information Systems (TOIS)
+- Reviewer for ACM Transactions on Software Engineering and Methodology (TOSEM)
+- Reviewer for ACM Transactions on Intelligent Systems and Technology (TIST)
+
 
