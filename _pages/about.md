@@ -23,6 +23,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail, <ins>QQ</ins>: 243840749, or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 News
+- 2025.11: 🎉🎉 Three papers were accepted by AAAI'25 with 1 Oral!
 - 2025.09: 🎉🎉 Four papers were accepted by NeurIPS'25 with 1 Spotlight!
 - 2025.05: 🎉🎉 One paper was accepted by ICML'25 (Spotlight)!
 - 2025.05: 🎉🎉 One paper was accepted by IEEE COMST (IF=46.7, Top 1 in IEEE)!
