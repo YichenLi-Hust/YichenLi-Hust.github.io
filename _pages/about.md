@@ -184,7 +184,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 ### Conference Committee Member
 - Reviewer for ICML'25/26, ICLR'25/26, NeurIPS'24/25
 - Reviewer for CVPR'25/26, ICCV'25, ECCV'24
-- Reviewer for IJCAI'25, AAAI'25, WWW'25/26, KDD'25
+- Reviewer for IJCAI'25, AAAI'25/26, WWW'25/26, KDD'25
   
 ### Journal Reviewer
 - Reviewer for IEEE Transactions on Parallel and Distributed Systems (TPDS)
