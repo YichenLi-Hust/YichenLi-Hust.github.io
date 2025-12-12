@@ -20,7 +20,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - (Federated) Software Engineering (**_e.g.,_** Defect Prediction, Code Smell Detection)
 - Edge-Cloud Model Collaboration (**_e.g.,_** Multi-Agent Sys, RAG)
 
-**PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail, <ins>QQ</ins>: 243840749, or <ins>Wechat</ins>: ycli_hust**
+**PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 News
 - 2025.12: 🎉🎉 One project was granted by the Fundamental Research Project for Young Professional from NSFC!
