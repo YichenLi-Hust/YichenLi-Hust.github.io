@@ -23,6 +23,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail, <ins>QQ</ins>: 243840749, or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 News
+- 2025.12: 🎉🎉 One project was granted by the Fundamental Research Project for Young Professional from NSFC!
 - 2025.11: 🎉🎉 Three papers were accepted by AAAI'26 with 1 Oral!
 - 2025.09: 🎉🎉 Four papers were accepted by NeurIPS'25 with 1 Spotlight!
 - 2025.05: 🎉🎉 One paper was accepted by ICML'25 (Spotlight)!
@@ -163,6 +164,8 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 10. Lingxiao Kong, Wenchao Xu, Chenran Zhang, Lei Wu, Haozhao Wang, **Yichen Li**, Ruixuan Li. SplitFed: Feature-Based Defense against Byzantine Attacks in Split Learning. Submitted to Neural Networks (NN) **<font color=Blue>(CCF-B)</font>**-->
 
 ## 🏆 Honor & Award
+- 2025.12 Granted by the Fundamental Research Project for Young Professional from NSFC, (<ins>国家自然科学基金青年学生基础研究项目（博士研究生)</ins>), FIRST student in the School of Computer Sci. & Tech., HUST
+- 2025.12 BYD Scholarship (<ins>比亚迪奖学金</ins>), HUST
 - 2025.09 National Scholarship for Ph.D. Students (<ins>博士生国家奖学金</ins>), China
 - 2025.09 Merit Student (<ins>三好学生</ins>), HUST
 - 2025.09 Science and Technology Innovation Award，(<ins>科技创新奖</ins>), HUST
@@ -180,8 +183,8 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 ## 💬 Academic Service
 ### Conference Committee Member
 - Reviewer for ICML'25/26, ICLR'25/26, NeurIPS'24/25
-- Reviewer for CVPR'25, ICCV'25, ECCV'24
-- Reviewer for IJCAI'25, AAAI'25, WWW'25, KDD'25
+- Reviewer for CVPR'25/26, ICCV'25, ECCV'24
+- Reviewer for IJCAI'25, AAAI'25, WWW'25/26, KDD'25
   
 ### Journal Reviewer
 - Reviewer for IEEE Transactions on Parallel and Distributed Systems (TPDS)
