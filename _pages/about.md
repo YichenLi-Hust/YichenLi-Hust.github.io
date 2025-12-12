@@ -173,7 +173,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 - 2025.01 Best Paper Award (<ins>最佳论文奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
 - 2025.01 Excellent Paper Award of the 3<sup>rd</sup>Annual Academic Conference (<ins>第三届学术年会优秀论文奖</ins>), School of Computer Sci. & Tech., HUST
 - 2024.12 Guotai Junan Scholarship (<ins>国泰君安奖学金</ins>), 2 Ph.D. students in the School of Computer Sci. & Tech., HUST
-- 2024.10 Doctoral First-Class Academic Scholarship, (<ins>博士一等学业奖学金</ins>), HUST
+- 2024.10 Doctoral First-Class Academic Scholarship (<ins>博士一等学业奖学金</ins>), HUST
 - 2024.10 Science and Technology Innovation Award，(<ins>科技创新奖</ins>), HUST
 - 2024.10 Merit Student (<ins>三好学生</ins>), HUST
 - 2024.04 Sangfor Award (<ins>深信服奖学金</ins>), School of Computer Sci. & Tech., HUST
