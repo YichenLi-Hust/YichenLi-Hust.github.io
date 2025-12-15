@@ -23,12 +23,13 @@ I am passionate about **distributed learning** among mobile devices. My current 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 News
-- 2025.12: 🎉🎉 One project was granted by the Fundamental Research Project for Young Professional from NSFC!
+- 2025.12: 🎉🎉 Granted by the Youth Talents Support Project from China Association for Science and Technology!
+- 2025.12: 🎉🎉 Granted by the Fundamental Research Project for Young Professional from NSFC!
 - 2025.11: 🎉🎉 Three papers were accepted by AAAI'26 with 1 Oral!
 - 2025.09: 🎉🎉 Four papers were accepted by NeurIPS'25 with 1 Spotlight!
 - 2025.05: 🎉🎉 One paper was accepted by ICML'25 (Spotlight)!
 - 2025.05: 🎉🎉 One paper was accepted by IEEE COMST (IF=46.7, Top 1 in IEEE)!
-- 2025.04: 🎉🎉 One project was granted by the Fundamental Research Funds for the Central Universities!
+- 2025.04: 🎉🎉 Granted by the Fundamental Research Funds for the Central Universities!
 - 2025.03: 🎉🎉 One paper was accepted by IEEE TPAMI (IF=18.6, Top 3 in IEEE)!
 - 2025.01: 🎉🎉 One paper was accepted by WWW'25.
 - 2025.01: 🎉🎉 I became a Ph.D. Candidate!
@@ -164,7 +165,8 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 10. Lingxiao Kong, Wenchao Xu, Chenran Zhang, Lei Wu, Haozhao Wang, **Yichen Li**, Ruixuan Li. SplitFed: Feature-Based Defense against Byzantine Attacks in Split Learning. Submitted to Neural Networks (NN) **<font color=Blue>(CCF-B)</font>**-->
 
 ## 🏆 Honor & Award
-- 2025.12 Granted by the Fundamental Research Project for Young Professional from NSFC, (<ins>国家自然科学基金青年学生基础研究项目（博士研究生)</ins>), FIRST student in the School of Computer Sci. & Tech., HUST
+- 2025.12 Granted by the Youth Talents Support Project from China Association for Science and Technology, (<ins>中国科协青年科技人才培育工程博士生专项计划</ins>), FIRST student in the School of Computer Sci. & Tech., HUST, China
+- 2025.12 Granted by the Fundamental Research Project for Young Professional from NSFC, (<ins>国家自然科学基金青年学生基础研究项目（博士研究生)</ins>), FIRST student in the School of Computer Sci. & Tech., HUST, China
 - 2025.12 BYD Scholarship (<ins>比亚迪奖学金</ins>), HUST
 - 2025.09 National Scholarship for Ph.D. Students (<ins>博士生国家奖学金</ins>), China
 - 2025.09 Merit Student (<ins>三好学生</ins>), HUST
