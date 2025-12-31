@@ -189,6 +189,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 - Reviewer for IJCAI'25, AAAI'25/26, WWW'25/26, KDD'25
   
 ### Journal Reviewer
+- Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - Reviewer for IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
