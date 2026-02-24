@@ -178,7 +178,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 
 ## 💬 Academic Service
 ### Conference Committee Member
-🎉🎉 Rewarded with AAAI-26 Outstanding Program Committee Award (42/27421, 0.16%)!
+- 🎉🎉 Rewarded with AAAI-26 Outstanding Program Committee Award (42/27421, 0.16%)!
 - Reviewer for ICML'25/26, ICLR'25/26, NeurIPS'24/25
 - Reviewer for CVPR'25/26, ICCV'25, ECCV'24/26
 - Reviewer for IJCAI'25/26, AAAI'25/26, WWW'25/26, KDD'25/26
