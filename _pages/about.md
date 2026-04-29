@@ -23,6 +23,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 News (From 2025)
+- 2026.04: 🎉🎉 One paper was accepted by ACL'26 (Oral)!
 - 2026.02: 🎉🎉 Two papers were accepted by CVPR'26!
 - 2026.02: 🎉🎉 Rewarded with AAAI-26 Outstanding Program Committee Award (42/27421, 0.16%)!
 - 2025.12: 🎉🎉 Granted by the Youth Talents Support Project from China Association for Science and Technology!
