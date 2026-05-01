@@ -26,6 +26,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2026.05: 🎉🎉 Six papers were accepted by ICML'26!
 - 2026.04: 🎉🎉 One paper was accepted by ACL'26 (Oral)!
 - 2026.02: 🎉🎉 Two papers were accepted by CVPR'26!
+- 2026.01: 🎉🎉 Two papers were accepted by ICLR'26!
 - 2026.01: 🎉🎉 Two papers were accepted by ICASSP'26 (Oral)!
 - 2026.02: 🎉🎉 Rewarded with AAAI-26 Outstanding Program Committee Award (42/27421, 0.16%)!
 - 2025.12: 🎉🎉 Granted by the Youth Talents Support Project from China Association for Science and Technology!
