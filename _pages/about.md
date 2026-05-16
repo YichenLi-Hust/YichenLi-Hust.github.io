@@ -23,6 +23,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 Key News (From 2025)
+- 2026.05: 🎉🎉 Rewarded with ICML-26 Gold Reviewer Award & IJCAI-ECAI-26 Gold Tier Reviewer Distinction!
 - 2026.05: 🎉🎉 Three papers were accepted by ICML'26!
 - 2026.04: 🎉🎉 One paper was accepted by ACL'26 (Oral)!
 - 2026.02: 🎉🎉 Two papers were accepted by CVPR'26!
@@ -187,10 +188,12 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 
 ## 💬 Academic Service
 ### Conference Committee Member
+- 🎉🎉 Rewarded with IJCAI-ECAI-26 Gold Tier Reviewer Distinction!
+- 🎉🎉 Rewarded with ICML-26 Gold Reviewer Award!
 - 🎉🎉 Rewarded with AAAI-26 Outstanding Program Committee Award (42/27421, 0.16%)!
 - Reviewer for ICML'25/26, ICLR'25/26, NeurIPS'24/25/26
 - Reviewer for CVPR'25/26, ICCV'25, ECCV'24/26
-- Reviewer for IJCAI'25/26, AAAI'25/26, WWW'25/26, KDD'25/26
+- Reviewer for IJCAI'25/26, AAAI'25/26, WWW'25/26, KDD'25/26, MM'26
   
 ### Journal Reviewer
 - Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
