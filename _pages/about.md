@@ -23,7 +23,9 @@ I am passionate about **distributed learning** among mobile devices. My current 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 Key News (From 2025)
-- 2026.05: 🎉🎉 Rewarded with ICML-26 Gold Reviewer Award & IJCAI-ECAI-26 Gold Tier Reviewer Distinction!
+- 2026.05: 🎉🎉 One paper was accepted by KDD'26!
+- 2026.05: 🎉🎉 Rewarded with IJCAI-ECAI-26 Gold Tier Reviewer Distinction!
+- 2026.05: 🎉🎉 Rewarded with ICML-26 Gold Reviewer Award!
 - 2026.05: 🎉🎉 Three papers were accepted by ICML'26!
 - 2026.04: 🎉🎉 One paper was accepted by ACL'26 (Oral)!
 - 2026.02: 🎉🎉 Two papers were accepted by CVPR'26!
