@@ -170,6 +170,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 10. Lingxiao Kong, Wenchao Xu, Chenran Zhang, Lei Wu, Haozhao Wang, **Yichen Li**, Ruixuan Li. SplitFed: Feature-Based Defense against Byzantine Attacks in Split Learning. Submitted to Neural Networks (NN) **<font color=Blue>(CCF-B)</font>**-->
 
 ## 🏆 Honor & Award
+- 2026.05 EverProX Scholarship (<ins>长芯博创奖学金</ins>), HUST
 - 2026.02 Best Academic Award (<ins>最佳学术奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
 - 2025.12 Granted by the Youth Talents Support Project from China Association for Science and Technology, (<ins>中国科协青年科技人才培育工程博士生专项计划</ins>), FIRST student in the School of Computer Sci. & Tech., HUST, China
 - 2025.12 Granted by the Fundamental Research Project for Young Professional from NSFC, (<ins>国家自然科学基金青年学生基础研究项目（博士研究生)</ins>), FIRST student in the School of Computer Sci. & Tech., HUST, China
@@ -180,7 +181,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 - 2025.04 Granted by the Fundamental Research Funds for the Central Universities (<ins>研究生创新基金项目</ins>), Only ONE student in the School of Computer Sci. & Tech., HUST
 - 2025.01 Best Paper Award (<ins>最佳论文奖</ins>), [IDC Lab](https://idc.hust.edu.cn/), HUST
 - 2025.01 Excellent Paper Award of the 3<sup>rd</sup>Annual Academic Conference (<ins>第三届学术年会优秀论文奖</ins>), School of Computer Sci. & Tech., HUST
-- 2024.12 Guotai Junan Scholarship (<ins>国泰君安奖学金</ins>), 2 Ph.D. students in the School of Computer Sci. & Tech., HUST
+- 2024.12 Guotai Junan Scholarship (<ins>国泰君安奖学金</ins>), HUST
 - 2024.10 Doctoral First-Class Academic Scholarship (<ins>博士一等学业奖学金</ins>), HUST
 - 2024.10 Science and Technology Innovation Award (<ins>科技创新奖</ins>), HUST
 - 2024.10 Merit Student (<ins>三好学生</ins>), HUST
