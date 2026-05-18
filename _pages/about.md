@@ -83,7 +83,7 @@ hspace="0" wspace="0" src="../images/ICML.png" style="margin-right: 20px;">
 FedSSI: Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li</dd>
-<dd> The Thirteenth International Conference on Learning Representations (<strong>ICML'25</strong>), 2025, <strong><font color=Red>CCF-A (Spotlight)</font></strong></dd>
+<dd> The Forty-Second International Conference on Machine Learning (<strong>ICML'25</strong>), 2025, <strong><font color=Red>CCF-A (Spotlight)</font></strong></dd>
 </dl>
 <br>
 
