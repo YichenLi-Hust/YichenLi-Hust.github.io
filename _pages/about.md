@@ -10,7 +10,7 @@ redirect_from:
 Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (3<sup>rd</sup> year student, 2023.09-2028.01) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). Meanwhile, I am also a visiting student at 1) University of Cambridge, advised by [Prof. Ozgur B. Akan](https://oba.eco/) (FIEEE) and 2) Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by [Prof. Imran Razzak](https://imranrazzak.github.io/). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) and [Prof. Haozhao Wang](https://wanghaozhao.mysxl.cn/) from HUST. 
 
 
-**<ins>❤️‍🔥🔜: <font color=Blue>I am seeking opportunities to serve as a Visiting Scholar, with aspirations for a future role as a Postdoc (2 years later) ! ! !</font></ins>**
+**<ins>❤️‍🔥🔜: <font color=Blue>I am seeking opportunities to serve as a Visiting Scholar, with aspirations for a future role as a Postdoc (1.5 years later) ! ! !</font></ins>**
 
 ## 📖 Research
 I am passionate about **distributed learning** among mobile devices. My current research interests focus on five key areas:
@@ -27,7 +27,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2026.05: 🎉🎉 Rewarded with IJCAI-ECAI-26 Gold Tier Reviewer Distinction!
 - 2026.05: 🎉🎉 Rewarded with ICML-26 Gold Reviewer Award!
 - 2026.05: 🎉🎉 Three papers were accepted by ICML'26!
-- 2026.04: 🎉🎉 One paper was accepted by ACL'26 (Oral)!
+- 2026.04: 🎉🎉 One paper was accepted by ACL'26!
 - 2026.02: 🎉🎉 Two papers were accepted by CVPR'26!
 - 2026.01: 🎉🎉 Two papers were accepted by ICLR'26!
 - 2026.01: 🎉🎉 Two papers were accepted by ICASSP'26 (Oral)!
