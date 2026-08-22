@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (3<sup>rd</sup> year student, 2023.09-2028.01) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). Meanwhile, I am also a visiting student at 1) University of Cambridge, advised by [Prof. Ozgur B. Akan](https://oba.eco/) (FIEEE) and 2) Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by [Prof. Imran Razzak](https://imranrazzak.github.io/). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) and [Prof. Haozhao Wang](https://wanghaozhao.mysxl.cn/) from HUST. 
+Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (4<sup>th</sup> year student, 2023.09-2028.01) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). Meanwhile, I am also a visiting student at 1) University of Cambridge, advised by [Prof. Ozgur B. Akan](https://oba.eco/) (FIEEE) and 2) Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by [Prof. Imran Razzak](https://imranrazzak.github.io/). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) and [Prof. Haozhao Wang](https://wanghaozhao.mysxl.cn/) from HUST. 
 
 
 **<ins>❤️‍🔥🔜: <font color=Blue>I am seeking opportunities to serve as a Visiting Scholar, with aspirations for a future role as a Postdoc (1.5 years later) ! ! !</font></ins>**
@@ -16,22 +16,22 @@ Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (3<sup>rd</sup>
 I am passionate about **distributed learning** among mobile devices. My current research interests focus on five key areas:
 - **<ins>⭐ Federated Continual / Incremental / Life-Long Learning</ins>** 
 - Federated Learning (**_e.g.,_** Knowledge Distillation, Model Aggregation...)
-- (Federated) Recommendation System (**_e.g.,_** Sequential RecSys, Cold-Start Problem)
-- (Federated) Software Engineering (**_e.g.,_** Defect Prediction, Code Smell Detection)
-- Edge-Cloud Model Collaboration (**_e.g.,_** Multi-Agent Sys, RAG)
+- Recommendation System (**_e.g.,_** Sequential RecSys, Cold-Start Problem)
+- Multi-Agent System (**_e.g.,_** Self-Evovling, FedSkill)
+- ⭐ NEW! AI4S! (**_e.g.,_** Medicine, Gene)
 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 Key News (From 2025)
 - 2026.05: 🎉🎉 One paper was accepted by KDD'26!
-- 2026.05: 🎉🎉 Rewarded with IJCAI-ECAI-26 Gold Tier Reviewer Distinction!
+- 2026.05: 🎉🎉 Rewarded with IJCAI-ECAI'26 Gold Tier Reviewer Distinction!
 - 2026.05: 🎉🎉 Rewarded with ICML-26 Gold Reviewer Award!
 - 2026.05: 🎉🎉 Three papers were accepted by ICML'26!
 - 2026.04: 🎉🎉 One paper was accepted by ACL'26!
 - 2026.02: 🎉🎉 Two papers were accepted by CVPR'26!
 - 2026.01: 🎉🎉 Two papers were accepted by ICLR'26!
 - 2026.01: 🎉🎉 Two papers were accepted by ICASSP'26 (Oral)!
-- 2026.02: 🎉🎉 Rewarded with AAAI-26 Outstanding Program Committee Award (42/27421, 0.16%)!
+- 2026.02: 🎉🎉 Rewarded with AAAI'26 Outstanding Program Committee Award (42/27421, 0.16%)!
 - 2025.12: 🎉🎉 Granted by the Youth Talents Support Project from China Association for Science and Technology!
 - 2025.12: 🎉🎉 Granted by the Fundamental Research Project for Young Professional from NSFC!
 - 2025.11: 🎉🎉 Three papers were accepted by AAAI'26 with 1 Oral!
