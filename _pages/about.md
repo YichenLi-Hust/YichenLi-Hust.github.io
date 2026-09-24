@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (4<sup>th</sup> year student, 2023.09-2028.01) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). Meanwhile, I am also a visiting scholar at 1) University of Cambridge, advised by [Prof. Ozgur B. Akan](https://oba.eco/) (FIEEE) and 2) University of Tokyo, advised by [Pro. Renhe Jiang](https://www.renhejiang.com/). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) and [Prof. Haozhao Wang](https://wanghaozhao.mysxl.cn/) from HUST. 
+Hi, my name is Yichen Li (Chinese: 李亦晨), a Ph.D. Candidate (4<sup>th</sup> year student, 2023.09-2028.01) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). Meanwhile, I am also a visiting scholar at 1) University of Cambridge, advised by [Prof. Ozgur B. Akan](https://oba.eco/) (FIEEE) and 2) University of Tokyo, advised by [Prof. Renhe Jiang](https://www.renhejiang.com/). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) and [Prof. Haozhao Wang](https://wanghaozhao.mysxl.cn/) from HUST. 
 
 
 **<ins>❤️‍🔥🔜: <font color=Blue>I am seeking opportunities to serve as a Visiting Scholar, with aspirations for a future role as a Postdoc (1 year later) ! ! !</font></ins>**
 
 ## 🚩 Education
-- **_2026.10 - 2027.03:_** Visiting Scholar in Center for Spatial Information Science, University of Tokyo, Supervised by [Pro. Renhe Jiang](https://www.renhejiang.com/).
+- **_2026.10 - 2027.03:_** Visiting Scholar in Center for Spatial Information Science, University of Tokyo, Supervised by [Prof. Renhe Jiang](https://www.renhejiang.com/).
 - **_2026.07 - 2027.01:_** Remote Visiting Scholar in Department of Engineering, University of Cambridge; Supervised by [Prof. Ozgur B. Akan](https://oba.eco/).
 - **_2025.07 - 2026.09:_** Visiting Scholar in Department of Computational Biology, Mohamed bin Zayed University of Artificial Intelligence; Supervised by [Prof. Imran Razzak](https://imranrazzak.github.io/).
 - **_2023.09 - 2028.01:_** PhD. Candidate in School of Computer Science and Technology, Huazhong University of Computer Science and Technology; Supervised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm).
