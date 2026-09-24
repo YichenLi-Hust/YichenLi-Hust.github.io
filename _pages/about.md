@@ -207,12 +207,13 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 - 🎉🎉 Rewarded with IJCAI-ECAI-26 Gold Tier Reviewer Distinction!
 - 🎉🎉 Rewarded with ICML-26 Gold Reviewer Award!
 - 🎉🎉 Rewarded with AAAI-26 Outstanding Program Committee Award (42/27421, 0.16%)!
-- Reviewer for ICML'25/26, ICLR'25/26, NeurIPS'24/25/26
+- Reviewer for ICML'25/26, ICLR'25/26/27, NeurIPS'24/25/26
 - Reviewer for CVPR'25/26, ICCV'25, ECCV'24/26
-- Reviewer for IJCAI'25/26, AAAI'25/26, WWW'25/26, KDD'25/26, MM'26
+- Reviewer for IJCAI'25/26, AAAI'25/26/27, WWW'25/26, KDD'25/26, MM'26
   
 ### Journal Reviewer
 - Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- Reviewer for IEEE Transactions on Mobile Computing (TMC)
 - Reviewer for IEEE Internet of Things Journal (IoTs)
 - Reviewer for IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)
