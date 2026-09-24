@@ -14,7 +14,7 @@ Hi, my name is Yichen Li (李亦晨), a Ph.D. Candidate (4<sup>th</sup> year stu
 
 ## 🚩 Education
 - **_2026.10 - 2027.03:_** Visiting Scholar in Center for Spatial Information Science, University of Tokyo, Supervised by [Prof. Renhe Jiang](https://www.renhejiang.com/).
-- **_2026.07 - 2027.01:_** <ins>(Remote, ATAS Check)</ins> Visiting Scholar in Department of Engineering, University of Cambridge; Supervised by [Prof. Ozgur B. Akan](https://oba.eco/).
+- **_2026.07 - 2027.07:_** <ins>(Remote, ATAS Check)</ins> Visiting Scholar in Department of Engineering, University of Cambridge; Supervised by [Prof. Ozgur B. Akan](https://oba.eco/).
 - **_2025.07 - 2026.09:_** Visiting Scholar in Department of Computational Biology, Mohamed bin Zayed University of Artificial Intelligence; Supervised by [Prof. Imran Razzak](https://imranrazzak.github.io/).
 - **_2023.09 - 2028.01:_** PhD. Candidate in School of Computer Science and Technology, Huazhong University of Science and Technology; Supervised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm).
 - **_2019.09 - 2023.06:_** Bachelor of Computer Science and Technology, Soochow University; Supervised by [Prof. Xiaofang Zhang](https://openreview.net/profile?id=~Xiaofang_Zhang1).
