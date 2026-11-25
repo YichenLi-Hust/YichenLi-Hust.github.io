@@ -32,6 +32,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or <ins>Wechat</ins>: ycli_hust**
 
 ## 🔥 Key News (From 2025)
+- 2026.11: 🎉🎉 "Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey", IEEE Communications Surveys & Tutorials, was awarded ESI 1% Highly Cited Paper!
 - 2026.10: 🎉🎉 Rewarded with NeurIPS'26 Top Reviewer Distinction!
 - 2026.09: 🎉🎉 A few papers were accepted by NeurIPS'26! Congratulations to all co-authors!
 - 2026.07: 🎉🎉 Three papers were accepted by MM'26!
