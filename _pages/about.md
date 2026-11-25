@@ -61,7 +61,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 <dt><img align="left" width="350" height="250"
 hspace="0" wspace="0" src="../images/COMST.png" style="margin-right: 20px;">
 </dt>
-<dd><a href="https://arxiv.org/pdf/2412.13840"><strong>	
+<dd>⭐ <a href="https://arxiv.org/pdf/2412.13840"><strong>	
 Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li.</dd>
@@ -77,7 +77,7 @@ Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey
 <dt><img align="left" width="350" height="150"
 hspace="0" wspace="0" src="../images/TPAMI.png" style="margin-right: 20px;">
 </dt>
-<dd>⭐ <a href="https://ieeexplore.ieee.org/abstract/document/10930690"><strong>	
+<dd> <a href="https://ieeexplore.ieee.org/abstract/document/10930690"><strong>	
 Re-Fed+: A Better Replay Strategy for Federated Incremental Learning
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Yining Qi, Wei Liu, Ruixuan Li</dd>
