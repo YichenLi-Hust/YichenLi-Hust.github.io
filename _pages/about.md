@@ -135,8 +135,8 @@ Towards Efficient Replay in Federated Incremental Learning
 
 
 ### Conference Publication
-1. Gaozhuo Liu, **Yichen Li<sup>†</sup>**, Xiuying Wang, Yulong Li, Chuang Zhao, Yankai Jiang, Imran Razzak. Heterogeneity-aware Distillation for Federated Continual Learning. The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS'26) **<font color=Red>(CCF-A)</font>**
-2. Xiuying Wang, **Yichen Li<sup>†</sup>**, Jiahua Cheng, Xiwei Liu, Chuang Zhao, Bo Liu, Imran Razzak. Rehearsal-Free Statistical Prototype Regularization for Federated Incremental Learning. The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS'26) **<font color=Red>(CCF-A)</font>**
+1. Gaozhuo Liu, Xiuying Wang, Yulong Li, Chuang Zhao, Yankai Jiang, Imran Razzak, **Yichen Li<sup>†</sup>**. Heterogeneity-aware Distillation for Federated Continual Learning. The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS'26) **<font color=Red>(CCF-A)</font>**
+2. Xiuying Wang, Yichen Li, Jiahua Cheng, Xiwei Liu, Chuang Zhao, Imran Razzak, **Bo Liu<sup>†</sup>**. Rehearsal-Free Statistical Prototype Regularization for Federated Incremental Learning. The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS'26) **<font color=Red>(CCF-A)</font>**
 3. Qiyu Qin, **Yichen Li**, Haozhao Wang, Tianzhe Xiao, Hao Zhou, Imran Razzak, Ruixuan Li. Who Should Evolve? Uncertainty-Aware Role Bottleneck Inference for Multi-Agent LLM Training. The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS'26) **<font color=Red>(CCF-A)</font>**
 4. Zhongxu Wang, **Yichen Li**, Haozhao Wang, Hanlin Cai, chenqi, Ruixuan Li, Ozgur B. Akan. Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution. The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS'26) **<font color=Red>(CCF-A)</font>**
 5. **Yichen Li**, Haozhao Wang, Hang Su, Yulong Li, Xiaoquan Yi, Yankai Jiang, Chuang Zhao, Imran Razzak, Ruixuan Li. Cross-task Calibration for Asynchronous Federated Continual Learning. The Forty-Third International Conference on Machine Learning (ICML'26) **<font color=Red>(CCF-A)</font>**
@@ -212,12 +212,13 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 
 ## 💬 Academic Service
 ### Conference Committee Member
+- 🎉🎉 Rewarded with NeurIPS'26 Top Reviewer Distinction!
 - 🎉🎉 Rewarded with IJCAI-ECAI-26 Gold Tier Reviewer Distinction!
 - 🎉🎉 Rewarded with ICML-26 Gold Reviewer Award!
 - 🎉🎉 Rewarded with AAAI-26 Outstanding Program Committee Award (42/27421, 0.16%)!
 - Reviewer for ICML'25/26, ICLR'25/26/27, NeurIPS'24/25/26
-- Reviewer for CVPR'25/26, ICCV'25, ECCV'24/26
-- Reviewer for IJCAI'25/26, AAAI'25/26/27, WWW'25/26, KDD'25/26, MM'26
+- Reviewer for CVPR'25/26/27, ICCV'25, ECCV'24/26
+- Reviewer for IJCAI'25/26/27, AAAI'25/26/27, WWW'25/26/27, KDD'25/26, MM'26
   
 ### Journal Reviewer
 - Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
@@ -230,5 +231,7 @@ for Federated Continual Learning. Submitted to IEEE Transactions on Pattern Anal
 - Reviewer for ACM Transactions on Information Systems (TOIS)
 - Reviewer for ACM Transactions on Software Engineering and Methodology (TOSEM)
 - Reviewer for ACM Transactions on Intelligent Systems and Technology (TIST)
+- Reviewer for Knowledge-Based Systems (KBS)
+- Reviewer for Neural Networks (NN)
 
 
