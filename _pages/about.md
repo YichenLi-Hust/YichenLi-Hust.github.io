@@ -62,10 +62,10 @@ I am passionate about **distributed learning** among mobile devices. My current 
 hspace="0" wspace="0" src="../images/COMST.png" style="margin-right: 20px;">
 </dt>
 <dd><a href="https://arxiv.org/pdf/2412.13840"><strong>	
-Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey
+⭐ Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey
 </strong></a></dd>
 <dd><strong>Yichen Li</strong>, Haozhao Wang, Wenchao Xu, Tianzhe Xiao, Hong Liu, Minzhu Tu, Yuying Wang, Xin Yang, Rui Zhang, Shui Yu, Song Guo, Ruixuan Li.</dd>
-<dd> IEEE Communications Surveys & Tutorials (<strong>COMST</strong>), 2025, <strong><font color=Red>Q1 (Rk=1/168 IEEE, IF=50.6)</font></strong></dd>
+<dd> IEEE Communications Surveys & Tutorials (<strong>COMST</strong>), 2025, <strong><font color=Red>Q1 (Rk=1/168 IEEE, IF=50.6)</font></strong>, <strong>ESI 1% Highly Cited Paper</strong></dd>
 </dl>
 <br>
 <br>
