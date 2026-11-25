@@ -35,7 +35,7 @@ I am passionate about **distributed learning** among mobile devices. My current 
 - 2026.11: 🎉🎉 "Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey", IEEE Communications Surveys & Tutorials (IF=50.6, JCR=Q1), was awarded **_ESI 1% Highly Cited Paper_**!
 - 2026.10: 🎉🎉 Rewarded with NeurIPS'26 Top Reviewer Distinction!
 - 2026.09: 🎉🎉 A few papers were accepted by NeurIPS'26! Congratulations to all co-authors!
-- 2026.07: 🎉🎉 Three papers were accepted by MM'26!
+- 2026.07: 🎉🎉 Two papers were accepted by MM'26!
 - 2026.05: 🎉🎉 One paper was accepted by KDD'26!
 - 2026.05: 🎉🎉 Rewarded with IJCAI-ECAI'26 Gold Tier Reviewer Distinction!
 - 2026.05: 🎉🎉 Rewarded with ICML-26 Gold Reviewer Award!
