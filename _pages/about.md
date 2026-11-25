@@ -10,15 +10,15 @@ redirect_from:
 ## Yichen Li (李亦晨)
 Yichen Li (李亦晨) is a Ph.D. Candidate (4<sup>th</sup> year student, 2023.09-present) in School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). Meanwhile, I am also a visiting scholar at 1) University of Cambridge, advised by [Prof. Ozgur B. Akan](https://oba.eco/) and 2) University of Tokyo, advised by [Prof. Renhe Jiang](https://www.renhejiang.com/). I also work closely with [Prof. Rui Zhang](https://www.ruizhang.info/) and [Prof. Haozhao Wang](https://wanghaozhao.mysxl.cn/) from HUST. 
 
-My research focuses on distributed learning among mobile devices. I have published over **_60_** papers in top-tier conferences and journals including IEEE COMST, IEEE TPAMI, ICML, NeurIPS, ICLR, CVPR, and WWW with **_1,000+_** Google Scholar citations. I have led the **_Fundamental Research Project for Young Professional from National Natural Science Foundation of China (NSFC) (<ins>国家自然科学基金青年学生基础研究项目, 博士研究生</ins>)_** and the Fundamental Research Funds for the Central Universities, HUST (<ins>研究生创新基金项目, 华中科技大学</ins>). I have served multiple times as a Program Committee member and reviewer for top AI conferences and journals. I was selected for the **_Youth Talents Support Project from China Association for Science and Technology (<ins>中国科协青年科技人才培育工程博士生专项计划</ins>)_**.
+My research focuses on distributed learning among mobile devices. I have published over **_60_** papers in top-tier conferences and journals including IEEE COMST, IEEE TPAMI, ICML, NeurIPS, ICLR, CVPR, and WWW with **_1,000+_** Google Scholar citations. I have led the **_Fundamental Research Project for Young Professional from National Natural Science Foundation of China (NSFC)_** (<ins>国家自然科学基金青年学生基础研究项目, 博士研究生</ins>) and the Fundamental Research Funds for the Central Universities, HUST (<ins>研究生创新基金项目, 华中科技大学</ins>). I have served multiple times as a Program Committee member and reviewer for top AI conferences and journals. I was selected for the **_Youth Talents Support Project from China Association for Science and Technology_** (<ins>中国科协青年科技人才培育工程博士生专项计划</ins>).
 
 **<ins>❤️‍🔥🔜: <font color=Blue>I am seeking opportunities to serve as a Tenure-track Assistant Professor or Postdoc Researcher! !</font></ins>**
 
 ## 🚩 Education
 - **_2026.10 - present:_** Visiting Scholar in Center for Spatial Information Science, University of Tokyo, Supervised by [Prof. Renhe Jiang](https://www.renhejiang.com/).
-- **_2026.07 - 2027.07:_** <ins>(Remote, ATAS Check)</ins> Visiting Scholar in Department of Engineering, University of Cambridge; Supervised by [Prof. Ozgur B. Akan](https://oba.eco/).
+- **_2026.07 - present:_** <ins>(Remote, ATAS Check)</ins> Visiting Scholar in Department of Engineering, University of Cambridge; Supervised by [Prof. Ozgur B. Akan](https://oba.eco/).
 - **_2025.07 - 2026.09:_** Visiting Scholar in Department of Computational Biology, Mohamed bin Zayed University of Artificial Intelligence; Supervised by [Prof. Imran Razzak](https://imranrazzak.github.io/).
-- **_2023.09 - 2028.01:_** PhD. Candidate in School of Computer Science and Technology, Huazhong University of Science and Technology; Supervised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm).
+- **_2023.09 - present:_** PhD. Candidate in School of Computer Science and Technology, Huazhong University of Science and Technology; Supervised by [Prof. Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm).
 - **_2019.09 - 2023.06:_** Bachelor of Computer Science and Technology, Soochow University; Supervised by [Prof. Xiaofang Zhang](https://openreview.net/profile?id=~Xiaofang_Zhang1).
 
 ## 📖 Research
